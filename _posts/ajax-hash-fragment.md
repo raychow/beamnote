@@ -13,7 +13,7 @@ AJAX 现在很流行, 按 Google 的话说, 越来越多的网页从静态页面
 
 「通过 URL 保持追踪」是我个人的描述, 详细解释是通过修改 URL 达到控制 AJAX 程序 (或者单纯的 JavaScript 程序) 的目的. 很多网站使用了 AJAX 技术, 在页面内翻页数次后看到感兴趣的内容, 如果通过此 URL 分享, 其他人打开的仍然是第一页, 这就给使用带来一定麻烦; 同样的, 前进后退功能被破坏了, 单击后退按钮可能没有反应, 也可能跳转到前一个页面而非此页面中最近浏览的内容.
 
-[![hash](http://img.beamnote.com/2010/ajax-hash-fragment.jpg)](http://img.beamnote.com/2010/ajax-hash-fragment.jpg)<!-- more -->
+[![hash](//img.beamnote.com/2010/ajax-hash-fragment.jpg)](//img.beamnote.com/2010/ajax-hash-fragment.jpg)<!-- more -->
 
 维基百科中[指出](http://zh.wikipedia.org/zh-cn/Ajax), 「使用动态页面更新使得用户难于将某个特定的状态保存到收藏夹中」, 即是刚刚描述的情况, 解决方法也被一笔带过: 「使用 URL 片断标识符 (通常被称为锚点, 即 URL 中 # 后面的部分) 来保持追踪, 允许用户回到指定的某个应用程序状态」, 「这些解决方案也同时解决了许多关于不支持后退按钮的争论」.
 

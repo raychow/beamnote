@@ -12,11 +12,11 @@ date: 2010-11-11 21:14:52
 
 现在很多网站使用了 JavaScript, 它让交互响应更加灵敏, 也增强了所谓的「用户体验」. 尽管它是一门很简单的程序设计语言, 但由于现在 Web 应用程序越来越多, JavaScript 的地位也变得越来越重要. 不过, 在享受 JavaScript 和衍生的库的同时, 你想过如果没有 JavaScript, 你现在的网页看起来是什么样子?
 
-[![JavaScript](http://img.beamnote.com/2010/without-javascript.png)](http://img.beamnote.com/2010/without-javascript.png)<!-- more -->
+[![JavaScript](//img.beamnote.com/2010/without-javascript.png)](//img.beamnote.com/2010/without-javascript.png)<!-- more -->
 
 我的博客使用了 jQuery 的一些功能, 显然它是基于 JavaScript 的. 我关掉了浏览器的 JavaScript 引擎, 打开博客, 幸好没有变形——广告无法显示, 这不是我能控制的.
 
-[![没有 JavaScript 的光线誌](http://img.beamnote.com/2010/beamnote-without-js.png)](http://img.beamnote.com/2010/beamnote-without-js.png)
+[![没有 JavaScript 的光线誌](//img.beamnote.com/2010/beamnote-without-js.png)](//img.beamnote.com/2010/beamnote-without-js.png)
 
 「文章」菜单不能显示, 因为我是通过 jQuery 注册 hover 事件实现弹出的; 「回顶部」的按钮也无效了, 当然这影响不大.
 

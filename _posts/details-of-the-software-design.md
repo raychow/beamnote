@@ -12,13 +12,13 @@ date: 2010-03-29 22:56:43
 
 在 Solidot 看到了[《完美软件经济学》](http://it.solidot.org/article.pl?sid=10/03/29/1153230)的一个小资讯, 其中提到了一个关于[如何区分 Bug 的大小](http://developers.slashdot.org/story/10/03/28/167251/The-Economics-of-Perfect-Software)的匿名评论: 设身处地的想一想用户遇到 Bug 后的感受. 如果用户点击了三级菜单, 打开一个设置窗口, 点击其中一个键后弹出了错误信息, 这只是一个隐藏很深的小 Bug, 用户遇到后通常会一笑了之. 但如果一个采用通用配置的程序在启动时就出错, 无疑这是一个大 Bug, 用户对此会极为恼火.
 
-[![软件设计的细节](http://img.beamnote.com/2010/talk-about-the-details-of-software-design.jpg)](http://img.beamnote.com/2010/talk-about-the-details-of-software-design.jpg)<!-- more -->
+[![软件设计的细节](//img.beamnote.com/2010/talk-about-the-details-of-software-design.jpg)](//img.beamnote.com/2010/talk-about-the-details-of-software-design.jpg)<!-- more -->
 
 我不禁想到了不久前才用的一款制作电子书的国产软件 iebook, 这款软件在使用过程中遇到的各种各样奇怪的问题让我很无奈.
 
 软件打开之前 Windows 就弹出了要求提权的窗口, 这让我感到疑惑, 因为单纯的制作一套电子书是不需要管理员权限的. 程序界面高仿了 Microsoft Office 2007, 但功能分类比较奇怪, 「添加页面」功能归类于「开始」选项卡中, 而选择皮肤、背景、管理模板的功能却归类于「插入」选项卡中, 新用户很难一次找到这些功能.
 
-[![iebook](http://img.beamnote.com/2010/iebook.jpg)](http://img.beamnote.com/2010/iebook.jpg)
+[![iebook](//img.beamnote.com/2010/iebook.jpg)](//img.beamnote.com/2010/iebook.jpg)
 
 最让人无语的, 是这款号称「全球领先的电子杂志制作软件」居然连最简单的撤销还原功能都没有, 所以用户不得不随时注意保存, 否则误操作某些步骤就无法还原. 为了方便用户作出精美的页面, 软件提供了几种模板可供选择, 但模板的样式是固定的, 只可以修改文字和图片内容, 连移动都不可以.
 
@@ -28,7 +28,7 @@ date: 2010-03-29 22:56:43
 
 我们来看国内杀毒软件的龙头老大, 瑞星杀毒软件最新版本的界面:
 
-[![瑞星](http://img.beamnote.com/2010/rising.jpg)](http://img.beamnote.com/2010/rising.jpg)
+[![瑞星](//img.beamnote.com/2010/rising.jpg)](//img.beamnote.com/2010/rising.jpg)
 
 画面顶部有借鉴流行的极光元素, 进度条设计的也很出彩, 这是值得夸奖的地方, 但界面给人一种陈旧感, 并不是很好看. 按钮采用了类似水晶的渐变效果, 现在似乎很少用到这种设计, 并且使用在杀毒软件上会给人不专业的感觉.
 
@@ -42,7 +42,7 @@ date: 2010-03-29 22:56:43
 
 同是杀毒软件的卡巴斯基, 在画面设计上更加成熟 (瑞星使用了自己设计的 UI 反而效果不佳) :
 
-[![卡巴斯基](http://img.beamnote.com/2010/kaspersky.jpg)](http://img.beamnote.com/2010/kaspersky.jpg)
+[![卡巴斯基](//img.beamnote.com/2010/kaspersky.jpg)](//img.beamnote.com/2010/kaspersky.jpg)
 
 可以看到, 卡巴斯基使用第三者口吻, 用语尽量不带感情并标准化 (这符合我的审美观); 瑞星的「已上报『云安全』计划」这句话简直是向用户邀功嘛\! 看, 云安全牛B吧.
 

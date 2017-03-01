@@ -28,7 +28,7 @@ Opera 是我比较喜欢的浏览器之一, 因为相比 IE 它速度快很多, 
 
 注意: 国内很多邮箱无法接收由 Byteact 发来的邮件, 如 QQ 邮箱, 因此建议使用 GMail、Hotmail 等国外邮箱.
 
-[![byteact_reg1](http://img.beamnote.com/2010/byteact-reg-1.jpg)](http://img.beamnote.com/2010/byteact-reg-1.jpg)
+[![byteact_reg1](//img.beamnote.com/2010/byteact-reg-1.jpg)](//img.beamnote.com/2010/byteact-reg-1.jpg)
 
 再键入两次验证码之后, 提示邮件发送成功.
 
@@ -36,23 +36,23 @@ Opera 是我比较喜欢的浏览器之一, 因为相比 IE 它速度快很多, 
 
 下一步的页面告知了登陆使用的用户名、密码, 请牢记.
 
-[![byteact_reg2](http://img.beamnote.com/2010/byteact-reg-2.jpg)](http://img.beamnote.com/2010/byteact-reg-2.jpg)
+[![byteact_reg2](//img.beamnote.com/2010/byteact-reg-2.jpg)](//img.beamnote.com/2010/byteact-reg-2.jpg)
 
 点击 「Click here to log into you VistaPanel」登陆控制台, 键入刚才提供的用户名、密码, 选择简体中文 「Chinese_simplified」并登陆.
 
 建议立即修改密码防止密码遗忘, 密码修改完成以后要求重新登陆.
 
-[![byteact_reg3](http://img.beamnote.com/2010/byteact-reg-3.jpg)](http://img.beamnote.com/2010/byteact-reg-3.jpg)
+[![byteact_reg3](//img.beamnote.com/2010/byteact-reg-3.jpg)](//img.beamnote.com/2010/byteact-reg-3.jpg)
 
 点击两处的「文件管理器」均可以进入上传文件的后台.
 
 进入 htdocs 目录, 点击 「Upload」.
 
-[![byteact_reg4](http://img.beamnote.com/2010/byteact-reg-4.jpg)](http://img.beamnote.com/2010/byteact-reg-4.jpg)
+[![byteact_reg4](//img.beamnote.com/2010/byteact-reg-4.jpg)](//img.beamnote.com/2010/byteact-reg-4.jpg)
 
 选择刚才第二步下载的 index.php, 完成之后点击对号.
 
-[![byteact_reg5](http://img.beamnote.com/2010/byteact-reg-5.jpg)](http://img.beamnote.com/2010/byteact-reg-5.jpg)
+[![byteact_reg5](//img.beamnote.com/2010/byteact-reg-5.jpg)](//img.beamnote.com/2010/byteact-reg-5.jpg)
 > <span style="color: #888888;">_上传按钮具体形式与浏览器有关_</span>
 现在访问你的域名, 应该转入 Google.com. 如果不成功, 请重试.
 

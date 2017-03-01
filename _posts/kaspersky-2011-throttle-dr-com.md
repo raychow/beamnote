@@ -12,7 +12,7 @@ date: 2010-09-11 16:04:22
 
 此文不仅针对 Dr.COM, 相信也能掐死其它认证程序.
 
-[![用卡巴斯基掐死 Dr.COM](http://img.beamnote.com/2010/garbage-dr-com.png)](http://img.beamnote.com/2010/garbage-dr-com.png)<!-- more -->
+[![用卡巴斯基掐死 Dr.COM](//img.beamnote.com/2010/garbage-dr-com.png)](//img.beamnote.com/2010/garbage-dr-com.png)<!-- more -->
 
 为了最大程度上确保系统文件和用户私密数据的安全, 卡巴斯基实验室研发出一个名为「安全堡垒」的受保护的虚拟环境, 用户可以选择在里面运行第三方程序. 卡巴斯基 2011 中包含此功能, 卡巴斯基 2010 有一项叫做「安全免疫区」的功能, 实际上「安全堡垒」是「安全免疫区」的升级版, 不清楚卡巴斯基 2010 可否实现.
 
@@ -30,7 +30,7 @@ Dr.COM 成功认证之后, 选择「回到主桌面」, 即可回到真实系统
 
 首先建议您不要在主桌面直接安装 Dr.COM, 因为安装程序也有一些可疑动作, 如截图:
 
-[![Dr.COM 安装程序的可疑动作](http://img.beamnote.com/2010/dr-com-setup.png)](http://img.beamnote.com/2010/dr-com-setup.png)
+[![Dr.COM 安装程序的可疑动作](//img.beamnote.com/2010/dr-com-setup.png)](//img.beamnote.com/2010/dr-com-setup.png)
 
 在安全桌面安装之后, 将 Dr.COM 文件夹复制到「安全桌面」的共享文件夹, 再复制到主桌面, 在桌面创建其快捷方式.
 
@@ -40,10 +40,10 @@ Dr.COM 成功认证之后, 选择「回到主桌面」, 即可回到真实系统
 **在兼容性选项卡中勾选「以管理员身份运行此程序」**, 否则 Dr.COM 将在实机中运行.
 > 当选择「以管理员身份运行此程序」之后, 实际上设定的是 sbstart.exe 的兼容性策略, 这会**导致在卡巴斯基中启动「安全堡垒」时发生 A00002E4 错误**, 只需要取消「以管理员身份运行此程序」的选择即可.
 >
-> [![卡巴斯基 A00002E4](http://img.beamnote.com/2010/kaspersky-a00002e4.png)](http://img.beamnote.com/2010/kaspersky-a00002e4.png)
+> [![卡巴斯基 A00002E4](//img.beamnote.com/2010/kaspersky-a00002e4.png)](//img.beamnote.com/2010/kaspersky-a00002e4.png)
 成功进入安全堡垒后, 将有绿油油的一个框:
 
-[![Dr.COM 绿框](http://img.beamnote.com/2010/dr-com-green-box.png)](http://img.beamnote.com/2010/dr-com-green-box.png)
+[![Dr.COM 绿框](//img.beamnote.com/2010/dr-com-green-box.png)](//img.beamnote.com/2010/dr-com-green-box.png)
 
 一切正常 (指之前没有在主桌面运行过 Dr.COM 的情况) 时:
 

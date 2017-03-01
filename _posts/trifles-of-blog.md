@@ -11,7 +11,7 @@ date: 2014-02-10 17:22:07
 
 新年新气象 (话说窗外出着太阳下着雪是闹哪样\!), 光线誌很久未打理过了, 趁着这段假期整修了一番. 博客自架设以来, 换过一次域名、三四次主机、六七个 IP, 经历了一些小起和小落, 这篇文章就当作四周年庆生纪念吧.
 
-[![](http://img.beamnote.com/2014/trifles-of-blog.jpg)](http://img.beamnote.com/2014/trifles-of-blog.jpg)<!-- more -->
+[![](//img.beamnote.com/2014/trifles-of-blog.jpg)](//img.beamnote.com/2014/trifles-of-blog.jpg)<!-- more -->
 
 ## 一、博客空间升级到 VPS
 
@@ -19,7 +19,7 @@ date: 2014-02-10 17:22:07
 
 实际上老薛的主机要到今年八月份才会过期, 但前几日看到一位推友给自己的主机 [HomeZZ](http://www.homezz.com/) 做的广告:
 
-[![](http://img.beamnote.com/2014/twitter-vps.png)](http://img.beamnote.com/2014/twitter-vps.png)
+[![](//img.beamnote.com/2014/twitter-vps.png)](//img.beamnote.com/2014/twitter-vps.png)
 
 这个价格可是相当实惠了, 比 Linode 便宜了将近一半 (不过 Linode 最近有大幅升级), 第二天就买了下来.
 
@@ -31,7 +31,7 @@ date: 2014-02-10 17:22:07
 
 因为换到 VPS 的关系, 我登入了万年不进的 DNSPod, 在修改解析记录的时候意外的发现了主机记录为「*」 (星号) 的一条解析, IP 地址被指向了 107.151.110.52.
 
-[![](http://img.beamnote.com/2014/hacked-dnspod.png)](http://img.beamnote.com/2014/hacked-dnspod.png)
+[![](//img.beamnote.com/2014/hacked-dnspod.png)](//img.beamnote.com/2014/hacked-dnspod.png)
 
 起初我还以为是 DNSPod 的什么默认设置, 但 Google 搜寻发现不对劲, 原来带星号的记录属于泛解析, 任何未命中已有记录的访问都会被解析到泛解析设定的 IP 上. 果然, 我访问博客不存在的子域名, 会被跳转到一个极其傻逼的破解收费聊天室的广告中.
 

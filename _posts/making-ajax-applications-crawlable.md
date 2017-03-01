@@ -14,7 +14,7 @@ date: 2010-12-18 20:50:36
 
 Google 说, 如果您希望 AJAX 程序动态生成的内容出现在搜索结果中, 我们有一个方法帮助 Google (和潜在的其它搜索引擎, 当然百毒是不靠谱的) 检索和索引您的内容.
 
-[![让 AJAX 程序可被抓取](http://img.beamnote.com/2010/making-ajax-applications-crawlable.jpg)](http://img.beamnote.com/2010/making-ajax-applications-crawlable.jpg)<!-- more -->
+[![让 AJAX 程序可被抓取](//img.beamnote.com/2010/making-ajax-applications-crawlable.jpg)](//img.beamnote.com/2010/making-ajax-applications-crawlable.jpg)<!-- more -->
 
 ## 一、目前的做法
 

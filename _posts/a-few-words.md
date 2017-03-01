@@ -10,7 +10,7 @@ date: 2015-03-01 20:28:19
 
 上次写博客真的是很久很久很久之前的事情了, 这几个月经历着校招、小论文、大论文的轮番骚扰, 时间过的飞快.
 
-[![](http://img.beamnote.com/2015/a-few-words.png)](http://img.beamnote.com/2015/a-few-words.png)<!-- more -->
+[![](//img.beamnote.com/2015/a-few-words.png)](//img.beamnote.com/2015/a-few-words.png)<!-- more -->
 
 这次写文章, 是因为又换了云服务器. 光线誌这个博客已经有些年数了, 空间来来回回倒腾过好几回, 去年因为遇上了推特上的东哥做促销, 换到了他家的云服务器上, 之后就也没怎么花心思打理. 前几天云服务器到期, 续费价格很贵, 巧的是前一阵子 GitHub 提供了 [Student Pack](https://education.github.com/pack), 这真心是个有诚意的大礼包, 里面包含了 GitHub 的高级账号、NameCheap 的域名与证书、DigitalOcean 的云存储等等一系列价值不菲的服务, <del datetime="2015-03-02T15:13:19+00:00">于是就把博客搬到了 DigitalOcean</del>.
 

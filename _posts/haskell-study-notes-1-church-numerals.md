@@ -11,7 +11,7 @@ date: 2015-03-13 05:50:07
 
 在跟着 [FP101x](https://courses.edx.org/courses/DelftX/FP101x/3T2014/info) 学习的时候, 一直感觉良好, 老师虽然有点背书的样子但还是学到了新东西. 直到高阶函数那一章, 某个上课会紧张的呆萌助教小哥出现, 开口就蹦出了 Church Numerals, 接着「卧槽什么鬼」的东西出现了, 十来分钟的课程听的云里雾里最后也没弄明白他在说啥. 课后我去搜维基, 维基解释 Church 数是数据和运算符嵌入到 lambda 演算内的一种方式, 我就更糊涂了. 幸运的是, 我找到了 [Church numerals: a tutorial](https://karczmarczuk.users.greyc.fr/Essays/church.html) 这篇文章, 下面就结合我的理解来谈谈 Church Numerals.
 
-[![Haskell](http://img.beamnote.com/2015/haskell.png)](http://img.beamnote.com/2015/haskell.png)<!-- more -->
+[![Haskell](//img.beamnote.com/2015/haskell.png)](//img.beamnote.com/2015/haskell.png)<!-- more -->
 
 ## 一、Church Numerals
 

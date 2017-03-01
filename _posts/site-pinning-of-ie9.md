@@ -12,7 +12,7 @@ date: 2010-10-23 15:18:14
 
 IE9 测试版已经出来一段时间了, 它完善了对 HTML5、CSS3 的支持, 简化 (丑化? ) 了界面, 增强了安全措施, 不过在这个百花齐放的时代, 这些也不算什么亮点. 如果要说什么最独特的地方, 估计也就是今天提到的 [Site Pinning](http://windows.microsoft.com/zh-CN/internet-explorer/help/ie-9/whats-new-in-internet-explorer-9#section_2) (固定网站) 了, 它能够将一个网站如同程序固定在 Windows Vista / 7 的任务栏中, 对于支持此功能的网站, 还能定义图标、导航按钮颜色、Jump List、Thumbnail Toolbar 等内容.
 
-[![Site Pinning of IE9](http://img.beamnote.com/2010/site-pinning-of-ie9.png)](http://img.beamnote.com/2010/site-pinning-of-ie9.png)<!-- more -->
+[![Site Pinning of IE9](//img.beamnote.com/2010/site-pinning-of-ie9.png)](//img.beamnote.com/2010/site-pinning-of-ie9.png)<!-- more -->
 
 微软提供了一系列方法使得网站支持 Site Pinning, 可以参见以下两个 Demo.
 

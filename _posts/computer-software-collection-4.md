@@ -16,7 +16,7 @@ date: 2013-01-13 19:43:22
 
 这个系列延续了很久了, 从 2012 年的十月中旬, 一直到现在——2013 年一月中旬, 掰掰手指数数估计再多写一话就能大结局吧, 期间萌生的很多好题材也都忘记了, 好记<del>星</del>性不如烂笔头, 多做笔记才能抓住灵感.
 
-[![与时俱进的电脑软件大搜集 (四) ](http://img.beamnote.com/2013/computer-software-collection-4.jpg)](http://img.beamnote.com/2013/computer-software-collection-4.jpg)<!-- more -->
+[![与时俱进的电脑软件大搜集 (四) ](//img.beamnote.com/2013/computer-software-collection-4.jpg)](//img.beamnote.com/2013/computer-software-collection-4.jpg)<!-- more -->
 
 ## 一、云端笔记本: 印象笔记 / Evernote
 
@@ -26,7 +26,7 @@ date: 2013-01-13 19:43:22
 
 简单的介绍印象笔记, 这是一款让你随时随地记录笔记的软件, 无论是电脑、平板、手机, 甚至是搭载智能系统的相机、电视机、冰箱; 配合时下流行的云端概念, 任何改动都能与云端同步, 手机上新增的笔记立刻能在电视机上看见, 利用这一点甚至可以实现多人协作; 提供笔记的历史版本功能, 像时光机一样还原以前的修改 (不过只有收费的高级版才提供).
 
-[![印象笔记](http://img.beamnote.com/2013/evernote.png)](http://img.beamnote.com/2013/evernote.png)
+[![印象笔记](//img.beamnote.com/2013/evernote.png)](//img.beamnote.com/2013/evernote.png)
 
 ### 建立笔记
 
@@ -56,7 +56,7 @@ date: 2013-01-13 19:43:22
 
 ## 二、云端存储
 
-[![云端存储](http://img.beamnote.com/2013/cloud.jpg)](http://img.beamnote.com/2013/cloud.jpg)
+[![云端存储](//img.beamnote.com/2013/cloud.jpg)](//img.beamnote.com/2013/cloud.jpg)
 
 相比于云端笔记, 云端存储是面向文件的. 目前国际上知名的云端存储有 Dropbox、Google Drive、SkyDrive、SugarSync、iCloud, 国内的云端存储有坚果云、酷盘、金山快盘、百度云网盘、360 云盘、华为网盘……太多以至数不过来.
 

@@ -13,7 +13,7 @@ date: 2011-08-24 23:43:29
 
 这个插件是二月份写出来的, 后来由于备考一直没有时间维护升级. 期间一直有人反映无法自动更新, 但无奈我与我朋友的博客上都没有发生这种问题, 这两天一直在排查原因依然无果. 如果可以, 希望使用此插件无法自动更新的朋友能将主机帐号借给我用一段时间.
 
-[![WP Microblogs 0.3.3 版本升级](http://img.beamnote.com/2011/wp-microblogs-0-3-3.jpg)](http://img.beamnote.com/2011/wp-microblogs-0-3-3.jpg)<!-- more -->
+[![WP Microblogs 0.3.3 版本升级](//img.beamnote.com/2011/wp-microblogs-0-3-3.jpg)](//img.beamnote.com/2011/wp-microblogs-0-3-3.jpg)<!-- more -->
 
 此次升级主要针对新浪微博平台升级带来的一些问题:
 

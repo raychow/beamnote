@@ -10,7 +10,7 @@ date: 2010-05-01 18:43:43
 
 今天是五一国际劳动节, 本来计划去澳门玩一天, 但五一肯定超多人, 据说能从关口一直排队到珠海, 所以祝福大家五一节日愉快, 我就蜗居在宿舍算了.
 
-[![惨痛的教训](http://img.beamnote.com/2010/bitter-lesson.jpg)](http://img.beamnote.com/2010/bitter-lesson.jpg)<!-- more -->
+[![惨痛的教训](//img.beamnote.com/2010/bitter-lesson.jpg)](//img.beamnote.com/2010/bitter-lesson.jpg)<!-- more -->
 
 由于 Ubuntu 10.04 LTS 正式版发布的关系, 我很不幸的想恢复 Y450 本本的一键恢复功能 (为了改装 PE), 结果手贱的搜到了《[Y450 隐藏分区改造 Win7 PE 方法](http://ideapad.zol.com.cn/44/160_430616.html)》, 在重新安装联想一键拯救系统 7.0 工程师版时硬盘数据差点全部丢失, 实在是乱折腾的一个惨痛教训. 所幸后来经自己摸索与多方求助基本恢复, 但也浪费了很多时间. 所以我记录在这里, 如果有用联想带有一键恢复功能的电脑或者硬盘分区表被覆盖的同学, 此文应该对您有所帮助的.
 
@@ -22,11 +22,11 @@ date: 2010-05-01 18:43:43
 
 请保证分区丢失之后不要有任何写入硬盘的操作, 准备一个有 PE 的优盘, 进入 DiskGenius, 选择你的硬盘, 单击「搜索分区」, 默认设置可以不作修改, 单击「开始搜索」.
 
-[![DiskGenius 搜索分区](http://img.beamnote.com/2010/diskGenius1.jpg)](http://img.beamnote.com/2010/diskGenius1.jpg)
+[![DiskGenius 搜索分区](//img.beamnote.com/2010/diskGenius1.jpg)](//img.beamnote.com/2010/diskGenius1.jpg)
 
 一般很快就可以搜到分区, 如果确信是被删除的分区, 单击「保留」, 否则单击「忽略」.
 
-[![DiskGenius 搜索到分区](http://img.beamnote.com/2010/diskGenius2.jpg)](http://img.beamnote.com/2010/diskGenius2.jpg)
+[![DiskGenius 搜索到分区](//img.beamnote.com/2010/diskGenius2.jpg)](//img.beamnote.com/2010/diskGenius2.jpg)
 
 分区搜索结束后, 单击「保存更改」.
 

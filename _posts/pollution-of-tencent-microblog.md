@@ -14,7 +14,7 @@ date: 2011-03-25 19:56:34
 
 腾讯微博尽管是中国微博出道比较晚的, 但得益于腾讯的影响力、普及率与其推广战略, 尚未推出时就已炙手可热, 邀请测试时更是一码难求, 我仍然记得在 QQ 群里密切关注「腾讯微博邀请码」的情形. 时至今日, 腾讯微博上线接近一年, 尽管官方一味宣称腾讯微博气氛火热, 但种种行为揭露了其人气不及新浪这一事实, 可以说腾讯的插手污染了微博行业.
 
-[![腾讯微博](http://img.beamnote.com/2011/pollution-of-tencent-microblog.jpg)](http://img.beamnote.com/2011/pollution-of-tencent-microblog.jpg)<!-- more -->
+[![腾讯微博](//img.beamnote.com/2011/pollution-of-tencent-microblog.jpg)](//img.beamnote.com/2011/pollution-of-tencent-microblog.jpg)<!-- more -->
 
 ## 一、制造僵尸用户
 
@@ -38,7 +38,7 @@ date: 2011-03-25 19:56:34
 
 取每人有发言的最近 10 天中每天被转发最多的微博, 计算平均值 (由于新浪与腾讯对转发与评论有不同的统计方式, 新浪微博转发与评论是分开的, 而腾讯微博将转播 (转发) 与点评 (评论) 合并统计, 因此对于腾讯更有利) :
 
-[![刘翔与姚晨的转发数对比](http://img.beamnote.com/2011/comparison.png)](http://img.beamnote.com/2011/comparison.png)
+[![刘翔与姚晨的转发数对比](//img.beamnote.com/2011/comparison.png)](//img.beamnote.com/2011/comparison.png)
 
 现状恰恰相反, 姚晨虽然只有刘翔一半的粉丝, 但转发数却是刘翔的**四倍**.
 

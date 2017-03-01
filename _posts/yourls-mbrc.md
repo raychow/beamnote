@@ -13,7 +13,7 @@ date: 2010-07-27 17:47:06
 
 昨天在网路搜寻了许久, 试用了多款网址缩短程序, 只发现 urlShort 这一款能够连接 PhishTank 识别钓鱼网站之外, 都没有任何防护措施. 而 urlShort 没有控制台, 想检视已缩短的网站都很不方便. 看来没有可以屏蔽网址的缩短程序, 干脆自己动手打造 YOURLS, 实现我的需求.
 
-[![YOURLS 加强版](http://img.beamnote.com/2010/yourls-mbrc.png)](http://img.beamnote.com/2010/yourls-mbrc.png)<!-- more -->
+[![YOURLS 加强版](//img.beamnote.com/2010/yourls-mbrc.png)](//img.beamnote.com/2010/yourls-mbrc.png)<!-- more -->
 
 YOURLS 加强版具有以下特点:
 
@@ -25,7 +25,7 @@ YOURLS 加强版具有以下特点:
 
 尽管加入了这些功能, YOURLS 加强版并没有改变原版的使用习惯, 下面是实际运行效果图:
 
-[![YOURLS 加强版](http://img.beamnote.com/2010/2010-07-27_16-48-11.png)](http://img.beamnote.com/2010/2010-07-27_16-48-11.png)
+[![YOURLS 加强版](//img.beamnote.com/2010/2010-07-27_16-48-11.png)](//img.beamnote.com/2010/2010-07-27_16-48-11.png)
 
 **在开始使用之前, 请先单击网页下方的「创建表」按钮, 自动在 YOURLS 数据库中创建黑名单表. **
 
@@ -37,13 +37,13 @@ YOURLS 加强版具有以下特点:
 
 封锁域名精确到每个子域名, 例如: 将 baidu.com 域名封锁, 那么 www.baidu.com/more/ 将被自动封锁, 但 tieba.baidu.com 不在封锁之列.
 
-[![YOURLS 加强版](http://img.beamnote.com/2010/2010-07-27_17-00-42.png)](http://img.beamnote.com/2010/2010-07-27_17-00-42.png)
+[![YOURLS 加强版](//img.beamnote.com/2010/2010-07-27_17-00-42.png)](//img.beamnote.com/2010/2010-07-27_17-00-42.png)
 
 ### 手工封锁
 
 如果要封锁未被列出的目标, 可以使用网页下方的手工添加封锁功能.
 
-[![YOURLS 加强版](http://img.beamnote.com/2010/2010-07-27_17-13-09.png)](http://img.beamnote.com/2010/2010-07-27_17-13-09.png)
+[![YOURLS 加强版](//img.beamnote.com/2010/2010-07-27_17-13-09.png)](//img.beamnote.com/2010/2010-07-27_17-13-09.png)
 
 请注意, 管理功能尚未开发, 因此如果需要修改 / 删除封锁项目, 请在 phyMyAdmin 中进行, 黑名单位于 yourls 数据库 / yourls_blacklist.
 
@@ -57,7 +57,7 @@ YOURLS 加强版内置了 PhishTank 反钓鱼功能, 官方建议您编辑 inclu
 
 当收到网址缩短请求时, YOURLS 首先会将网址传送给 PhishTank, 如果确定是钓鱼网站, 则拒绝服务并给出提示信息:
 
-[![YOURLS 加强版](http://img.beamnote.com/2010/2010-07-27_17-32-31.png)](http://img.beamnote.com/2010/2010-07-27_17-32-31.png)
+[![YOURLS 加强版](//img.beamnote.com/2010/2010-07-27_17-32-31.png)](//img.beamnote.com/2010/2010-07-27_17-32-31.png)
 
 ### 期待加入的功能
 

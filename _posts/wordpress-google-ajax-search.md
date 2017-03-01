@@ -20,7 +20,7 @@ Google 自定义搜索提供了可定制性极强的搜索功能, 可以与 Word
 * 搜索页面整合 Google 自定义搜索;
 * 搜索页面中, 搜索结果随文字的输入动态呈现, 无需单击「搜索」.
 
-[![WordPress 整合 Google Ajax 搜索](http://img.beamnote.com/2010/wordpress-google-ajax-search.png)](http://img.beamnote.com/2010/wordpress-google-ajax-search.png)<!-- more -->
+[![WordPress 整合 Google Ajax 搜索](//img.beamnote.com/2010/wordpress-google-ajax-search.png)](//img.beamnote.com/2010/wordpress-google-ajax-search.png)<!-- more -->
 
 ## 一、申请 Google 自定义搜索
 

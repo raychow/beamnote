@@ -12,7 +12,7 @@ date: 2010-12-26 14:43:43
 
 很早就说过, 再好的英文被大陆人士翻译过后就变得稀奇古怪, 「超级食肉男孩」会不会让你联想到恐怖游戏? 非也, 看图片就知道, 这是一款像素风格的动作游戏 (旁白: 你是怎么知道的 :-o ? ).
 
-[![Super Meat Boy](http://img.beamnote.com/2010/super-meat-boy.jpg)](http://img.beamnote.com/2010/super-meat-boy-full.jpg)<!-- more -->
+[![Super Meat Boy](//img.beamnote.com/2010/super-meat-boy.jpg)](//img.beamnote.com/2010/super-meat-boy-full.jpg)<!-- more -->
 
 > 由美国独立界的老手麦米伦牵头开发, 是一款传统的平台型 2D 版面动作游戏, 创意独特, 难度不低. 玩家将扮演一坨肉感十足的玩意, 独立闯过各种设计巧妙的陷阱及刑具, 称的上是一款快节奏, 高难度的多平台汤汁四溢的游戏.
 >
@@ -26,7 +26,7 @@ Super Meat Boy 真的难到变态啊, 倘若你只是追求从前向后单线的
 
 那么, IGN 给出的评分是……9.0 分, 很给力啊
 
-[![IGN Ratings For Super Meat Boy](http://img.beamnote.com/2010/ign-ratings-for-super-meat-boy.png)](http://img.beamnote.com/2010/ign-ratings-for-super-meat-boy.png)
+[![IGN Ratings For Super Meat Boy](//img.beamnote.com/2010/ign-ratings-for-super-meat-boy.png)](//img.beamnote.com/2010/ign-ratings-for-super-meat-boy.png)
 
 <object id="vid_4cbe24bcdad0bd5466001179" class="ign-videoplayer" width="480" height="270" type="application/x-shockwave-flash" data="http://media.ign.com/ev/prod/embed.swf"><param name="movie" value="http://media.ign.com/ev/prod/embed.swf" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="bgcolor" value="#000000" /><param name="flashvars" value="url=http://www.ign.com/videos/2010/10/19/super-meat-boy-video-review?objectid=62475" /></object>
 > eMule 方式下载: [按此下载](ed2k://|file|%5B%E8%B6%85%E7%BA%A7%E9%A3%9F%E8%82%89%E7%94%B7%E5%AD%A9%5D.Super.Meat.Boy.full.rip-RAS.rar|160381143|a38ee1ed9001400e6bfbb785355a0b37|h=c6ot7naxdjqusjuaxrdve6u44nh4vh4d|/)

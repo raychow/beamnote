@@ -13,7 +13,7 @@ date: 2012-04-18 13:51:01
 
 前段时间的 CSDN 密码泄漏事件引起广泛关注, 我的邮箱与密码也赫赫在上. 由于我只使用两个密码, 面对莫须有的危机, 还是决定试用密码管理软件. 现在简要介绍两款.
 
-[![Final Password](http://img.beamnote.com/2012/final-password.jpg)](http://img.beamnote.com/2012/final-password.jpg)<!-- more -->
+[![Final Password](//img.beamnote.com/2012/final-password.jpg)](//img.beamnote.com/2012/final-password.jpg)<!-- more -->
 
 ## 一、LastPass
 
@@ -43,7 +43,7 @@ Last <3's Students: [https://lastpass.com/edupromo.php](https://lastpass.com/ed
 
 首先, 依然需要一个「记忆密码」, 然后根据不同的网站填写「区分代号」, 使用花密计算最终密码.
 
-[![花密](http://img.beamnote.com/2012/flowerpassword.png)](http://img.beamnote.com/2012/flowerpassword.png)
+[![花密](//img.beamnote.com/2012/flowerpassword.png)](//img.beamnote.com/2012/flowerpassword.png)
 
 花密目前有网页版、Windows 版、Chrome 扩展、手机网页版、Android 版, 按[这里](http://flowerpassword.com/app/web)可以使用或者下载花密.
 

@@ -15,7 +15,7 @@ date: 2010-06-19 20:23:27
 
 先说说界面的变化 (点击大图, 本站惯例) :
 
-[![Chrome 6.0.437.3 dev](http://img.beamnote.com/2010/chrome-whats-new.png)](http://img.beamnote.com/2010/chrome-whats-new.png)<!-- more -->
+[![Chrome 6.0.437.3 dev](//img.beamnote.com/2010/chrome-whats-new.png)](//img.beamnote.com/2010/chrome-whats-new.png)<!-- more -->
 
 ## 界面
 
@@ -36,19 +36,19 @@ date: 2010-06-19 20:23:27
 
 在地址栏输入 chrome://plugins/, 打开插件管理器, 可以启用 Chrome PDF Viewer.
 
-[![书签管理器](http://img.beamnote.com/2010/2010-06-19_23-24-05.png)](http://img.beamnote.com/2010/2010-06-19_23-24-05.png)
+[![书签管理器](//img.beamnote.com/2010/2010-06-19_23-24-05.png)](//img.beamnote.com/2010/2010-06-19_23-24-05.png)
 
 直接输入 PDF 文件就可以打开:
 
-[![Chrome PDF](http://img.beamnote.com/2010/2010-06-19_23-24-29.png)](http://img.beamnote.com/2010/2010-06-19_23-24-29.png)
+[![Chrome PDF](//img.beamnote.com/2010/2010-06-19_23-24-29.png)](//img.beamnote.com/2010/2010-06-19_23-24-29.png)
 
 与系统自带阅读器相比, 字体渲染的难看一点.
 
-[![Chrome PDF](http://img.beamnote.com/2010/2010-06-19_23-27-42.png)](http://img.beamnote.com/2010/2010-06-19_23-27-42.png)
+[![Chrome PDF](//img.beamnote.com/2010/2010-06-19_23-27-42.png)](//img.beamnote.com/2010/2010-06-19_23-27-42.png)
 
 ### 扩展程序同步
 
-[![Chrome 新功能](http://img.beamnote.com/2010/2010-06-19_19-13-47.png)](http://img.beamnote.com/2010/2010-06-19_19-13-47.png)
+[![Chrome 新功能](//img.beamnote.com/2010/2010-06-19_19-13-47.png)](//img.beamnote.com/2010/2010-06-19_19-13-47.png)
 
 这可是千呼万唤始出来的亮点啊, 6.0.437.2 有乌龙 Bug 紧急回炉, 6.0.437.3 版应该没问题吧.
 
@@ -75,17 +75,17 @@ date: 2010-06-19 20:23:27
 > --enable-accelerated-compositing
 * <del datetime="2010-06-19T16:05:14+00:00">貌似我没法开启</del>, 目前只能在 Windows 中开启. 以下是 Safari 中演示图片:
 
-[![3D Transforms](http://img.beamnote.com/2010/2010-06-19_08-02-44.png)](http://img.beamnote.com/2010/2010-06-19_08-02-44.png)
+[![3D Transforms](//img.beamnote.com/2010/2010-06-19_08-02-44.png)](//img.beamnote.com/2010/2010-06-19_08-02-44.png)
 
-[![3D Transforms](http://img.beamnote.com/2010/2010-06-19_08-03-05.png)](http://img.beamnote.com/2010/2010-06-19_08-03-05.png)
+[![3D Transforms](//img.beamnote.com/2010/2010-06-19_08-03-05.png)](//img.beamnote.com/2010/2010-06-19_08-03-05.png)
 
-[![3D Transforms](http://img.beamnote.com/2010/2010-06-19_08-03-21.png)](http://img.beamnote.com/2010/2010-06-19_08-03-21.png)
+[![3D Transforms](//img.beamnote.com/2010/2010-06-19_08-03-21.png)](//img.beamnote.com/2010/2010-06-19_08-03-21.png)
 
-[![3D Transforms](http://img.beamnote.com/2010/2010-06-19_08-03-35.png)](http://img.beamnote.com/2010/2010-06-19_08-03-35.png)
+[![3D Transforms](//img.beamnote.com/2010/2010-06-19_08-03-35.png)](//img.beamnote.com/2010/2010-06-19_08-03-35.png)
 
 Chrome 中美图欣赏:
 
-[![3D Transforms](http://img.beamnote.com/2010/2010-06-19_20-10-08.png)](http://img.beamnote.com/2010/2010-06-19_20-10-08.png)
+[![3D Transforms](//img.beamnote.com/2010/2010-06-19_20-10-08.png)](//img.beamnote.com/2010/2010-06-19_20-10-08.png)
 
 最后附上几个我还没有介绍的 Chrome 扩展:
 

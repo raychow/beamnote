@@ -10,7 +10,7 @@ date: 2011-04-04 18:45:03
 
 我们与世界之间有一堵墙, 这堵墙只被少数人知晓而非「众所周知」, 不要因为你见着骂墙的人多了就真的认为, 翻墙是中国网民必备技能. 这个世界上有些网站在我国并不存在, 这些网站不见得比你每天都上的网站有意义多少, 不要因为你可以上这些网站就有了优越感, 狠狠批判国内网站就是差——无论是差或是不差. 我们常用的操作系统是 Windows, 不要以为你用了 Linux 或者 MacOS 就是小众, 就是从网民进化了.
 
-[![被定向思考](http://img.beamnote.com/2011/directed-thinking.jpg)](http://img.beamnote.com/2011/directed-thinking.jpg)<!-- more -->
+[![被定向思考](//img.beamnote.com/2011/directed-thinking.jpg)](//img.beamnote.com/2011/directed-thinking.jpg)<!-- more -->
 
 将上面的论点进化一下, 请自我检查你是不是这样的人:
 

@@ -11,7 +11,7 @@ date: 2011-04-12 23:30:02
 
 还记得我第一次买主机时对主机没有什么了解, 在网上做足了功课, 最后选择了胡戈戈 180 元一年的主机 (1G 空间 13G 月流量). 博客搭起来后与别人交流时我发现自己的主机比较贵, 于是计划在第二年换一家.
 
-[![宕机](http://img.beamnote.com/2011/downtime.jpg)](http://img.beamnote.com/2011/downtime.jpg)<!-- more -->
+[![宕机](//img.beamnote.com/2011/downtime.jpg)](//img.beamnote.com/2011/downtime.jpg)<!-- more -->
 
 今年年初, 博友杜小白换到新主机 (p.s. 杜小白你消失够久了, 连微博神马的都没动静), 跟我说她刚换的至优主机很划算, 200 元就有 2G 空间与 30G 月流量, 甚至附送一个独立 IP. 看起来真的很不错, 甚至担心卖断货, 当晚我就付款, 并在第二天把博客搬到了新主机.
 
@@ -31,4 +31,4 @@ date: 2011-04-12 23:30:02
 
 下图是可用率报告:
 
-[![可用率报告](http://img.beamnote.com/2011/uptime-stat.png)](http://img.beamnote.com/2011/uptime-stat.png)
+[![可用率报告](//img.beamnote.com/2011/uptime-stat.png)](//img.beamnote.com/2011/uptime-stat.png)

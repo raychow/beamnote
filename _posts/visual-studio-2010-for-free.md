@@ -9,7 +9,7 @@ categories:
 date: 2010-04-16 08:00:24
 ---
 
-[![DreamSpark](http://img.beamnote.com/2010/dreamspark.jpg)](http://img.beamnote.com/2010/dreamspark.jpg)<!-- more -->
+[![DreamSpark](//img.beamnote.com/2010/dreamspark.jpg)](//img.beamnote.com/2010/dreamspark.jpg)<!-- more -->
 
 我所说的免费使用 Visual Studio 2010, 不是下载破解版、使用泄露序列号, 而是从微软官方下载原版安装程序 (目前只有英文版……) 、使用微软免费发给你的正版序列号 (目前还没发放 :?: ), 那就是使用微软 [DreamSpark](https://www.dreamspark.com/).
 

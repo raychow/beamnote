@@ -14,7 +14,7 @@ date: 2012-02-17 15:15:29
 
 海盗湾因版权问题多次被瑞典政府起诉, 在九年之间经历过多次追捕与封锁. 最近, 瑞典一家法院再次判处海盗湾的几名管理员有罪入狱. 2 月 14 日, 海盗湾宣布从 2 月 29 日起将不再提供 BT 种子下载, 全面转向磁力链.
 
-[![海盗湾与磁力链接](http://img.beamnote.com/2012/the-pirate-bay-and-magnetic-link.jpg)](http://img.beamnote.com/2012/the-pirate-bay-and-magnetic-link.jpg)<!-- more -->
+[![海盗湾与磁力链接](//img.beamnote.com/2012/the-pirate-bay-and-magnetic-link.jpg)](//img.beamnote.com/2012/the-pirate-bay-and-magnetic-link.jpg)<!-- more -->
 
 在不需要保存数额庞大的种子后, 这个站点的容量将急剧减少, 据统计, 海盗湾整站的一个备份文件尺寸仅有 90 MB, 解压缩后 164 MB, 这一备份文件中包含多达 1643194 个转换后的磁力链接. 也就是说全球最大的资源站点用一张 CD 装也绰绰有余. <sup>[[来源]](http://cnbeta.com/articles/172140.htm)</sup>
 

@@ -15,7 +15,7 @@ date: 2012-01-21 09:00:22
 
 先说明一个问题. 关于前一段时间频繁有朋友反馈插件不能更新的问题, 我头疼了很久, 在前一阵子 GoDaddy 解析不稳定时我将域名交给 DnsPod 解析, 结果也出现了这个问题. 因此我怀疑插件不能更新是由于 DnsPod 的某些防止攻击的手段过激反应造成的 (因为插件要通过 WordPress 的 CronJob 实现自动更新), 但不久之后 DnsPod 似乎作出了修正, 现在几乎没有不能更新的反馈了. 即使这样, 我依然加入了检查 Cron Job 的功能——很短的一段代码, 感谢之前推荐的插件 [BackWPup](http://beamnote.com/2011/backwpup.html).
 
-[![WP Microblogs 0.4.0](http://img.beamnote.com/2012/wp-microblogs-0-4-0.jpg)](http://img.beamnote.com/2012/wp-microblogs-0-4-0.jpg)<!-- more -->
+[![WP Microblogs 0.4.0](//img.beamnote.com/2012/wp-microblogs-0-4-0.jpg)](//img.beamnote.com/2012/wp-microblogs-0-4-0.jpg)<!-- more -->
 
 ## 一、增加
 

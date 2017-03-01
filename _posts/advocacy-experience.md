@@ -10,7 +10,7 @@ date: 2010-03-16 22:13:02
 
 话说……我这个站建了一个月有余了, 前几天 iTopDog 在 Q 上加了我, 第一句就是: 我们做下友链接吧. 先说点铺垫, 恭喜这位同学新站建成, 也知道您想把网站推广出去的急切心理, 但是我厚着脸皮说了句, 我的友链都是认识之后才加的, 您别见怪. 因为现在很少用 Q 了, 突然有人说一句, 交换链接吧, 我第一反应就是, 您谁啊? 接着就要心理斗争好半天, 本站虽也是个无名小站, 但起码有交换与被交换链接的自由吧.
 
-[![建站初期的宣传](http://img.beamnote.com/2010/advocacy-experience.jpg)](http://img.beamnote.com/2010/advocacy-experience.jpg)<!-- more -->
+[![建站初期的宣传](//img.beamnote.com/2010/advocacy-experience.jpg)](//img.beamnote.com/2010/advocacy-experience.jpg)<!-- more -->
 
 本人建站已有 43 天, 对于建站没有 43 天的同学们来说我就是前辈了. 所以我想在这里说说, 个人网站的初期发展心得.
 

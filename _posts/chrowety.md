@@ -14,7 +14,7 @@ date: 2010-03-04 19:25:40
 
 Chrowety 是一款新的运作于 Chrome 的 Twitter 扩展, 是目前 Chrome 中最强大的 Twitter 扩展.
 
-[![](http://img.beamnote.com/2010/chrowety.jpg)](http://img.beamnote.com/2010/chrowety.jpg)<!-- more -->
+[![](//img.beamnote.com/2010/chrowety.jpg)](//img.beamnote.com/2010/chrowety.jpg)<!-- more -->
 
 Chrowety 还在测试中, 已经拥有以下功能:
 

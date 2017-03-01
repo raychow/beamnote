@@ -10,7 +10,7 @@ date: 2011-04-26 23:30:46
 
 准备考研的日子一天一天过去, 猛然发现已经快两个月了. 晚上去听了本校一位数学老师的讲座, 很受鼓舞 (不过我就是容易头脑发热啦), 因此把近来的感慨一并记下.
 
-[![考研日记一](http://img.beamnote.com/2011/graduate-examination-1.jpg)](http://img.beamnote.com/2011/graduate-examination-1.jpg)<!-- more -->
+[![考研日记一](//img.beamnote.com/2011/graduate-examination-1.jpg)](//img.beamnote.com/2011/graduate-examination-1.jpg)<!-- more -->
 
 ## 自危
 
