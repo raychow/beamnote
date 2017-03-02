@@ -38,7 +38,7 @@ time() + get_option('gmt_offset') * 3600;   // 手工获得当地时间的 Unix 
 
 ## 二、以静制动的 WordPress Cron
 
-在开发 Magic Links 插件时我就用过 WordPress 的 `Cron` 定时任务, 加入任务队列中的 action 会按设定的时间触发. 之前写过一篇文章: [《使用 Cron jobs 自动备份网站 (一) 》](http://beamnote.com/2010/cpanel-automatic-backup-chapter-1.html), Linux 中有专门为定时任务服务的程序, 你设定什么时间, 就会在那个时间触发.
+在开发 Magic Links 插件时我就用过 WordPress 的 `Cron` 定时任务, 加入任务队列中的 action 会按设定的时间触发. 之前写过一篇文章: [《使用 Cron jobs 自动备份网站 (一) 》](//beamnote.com/2010/cpanel-automatic-backup-chapter-1/), Linux 中有专门为定时任务服务的程序, 你设定什么时间, 就会在那个时间触发.
 
 WordPress 是运行于 PHP 的程序, PHP 本身好像没有提供定时任务的功能, 网友们给出的方法大致是: 在一个无限循环中, 使用 `sleep()` 让程序等待, 并使用 `set_time_limit(0)` 防止程序执行超时. 个人感觉这方法有点不保险, 有那么一丁点执行出错或者时间不准的可能.
 

@@ -13,7 +13,7 @@ date: 2012-01-21 09:00:22
 
 时光飞逝, 没想到距离这个插件发布已经快一年时间了. 网站因为考研而荒废了很久, 考研初试结果仍是个未知数, 希望能通过吧.
 
-先说明一个问题. 关于前一段时间频繁有朋友反馈插件不能更新的问题, 我头疼了很久, 在前一阵子 GoDaddy 解析不稳定时我将域名交给 DnsPod 解析, 结果也出现了这个问题. 因此我怀疑插件不能更新是由于 DnsPod 的某些防止攻击的手段过激反应造成的 (因为插件要通过 WordPress 的 CronJob 实现自动更新), 但不久之后 DnsPod 似乎作出了修正, 现在几乎没有不能更新的反馈了. 即使这样, 我依然加入了检查 Cron Job 的功能——很短的一段代码, 感谢之前推荐的插件 [BackWPup](http://beamnote.com/2011/backwpup.html).
+先说明一个问题. 关于前一段时间频繁有朋友反馈插件不能更新的问题, 我头疼了很久, 在前一阵子 GoDaddy 解析不稳定时我将域名交给 DnsPod 解析, 结果也出现了这个问题. 因此我怀疑插件不能更新是由于 DnsPod 的某些防止攻击的手段过激反应造成的 (因为插件要通过 WordPress 的 CronJob 实现自动更新), 但不久之后 DnsPod 似乎作出了修正, 现在几乎没有不能更新的反馈了. 即使这样, 我依然加入了检查 Cron Job 的功能——很短的一段代码, 感谢之前推荐的插件 [BackWPup](//beamnote.com/2011/backwpup/).
 
 [![WP Microblogs 0.4.0](//img.beamnote.com/2012/wp-microblogs-0-4-0.jpg)](//img.beamnote.com/2012/wp-microblogs-0-4-0.jpg)<!-- more -->
 
@@ -96,4 +96,4 @@ Twitter 用户请注意, 中国大陆存在网络问题, 并不能正常显示�
 
 插件下载地址: [http://wordpress.org/extend/plugins/wp-microblogs/](http://wordpress.org/extend/plugins/wp-microblogs/)
 
-插件主页: [http://beamnote.com/2011/wp-microblogs.html](http://beamnote.com/2011/wp-microblogs.html)
+插件主页: [//beamnote.com/2011/wp-microblogs/](//beamnote.com/2011/wp-microblogs/)

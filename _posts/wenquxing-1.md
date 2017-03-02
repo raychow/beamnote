@@ -45,4 +45,4 @@ GVBASIC, 是金远见公司为文曲星开发的一种 BASIC 变种语言, 文�
 
 似乎在这种能够自我校验的 BASIC 程序出现后不久, 文曲星界就没落了, 于是再也没看到过更牛的 GVBASIC 程序了.
 
-[关于「文曲星」的一些记忆 (二) ](http://beamnote.com/2014/wenquxing-2.html)
+[关于「文曲星」的一些记忆 (二)](//beamnote.com/2014/wenquxing-2/)

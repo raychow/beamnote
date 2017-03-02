@@ -24,7 +24,7 @@ Article Goggles 通过在添加新文章与编辑页面载入 JavaScript 的方�
 
 不管什么时候点击「发布」或「更新」, 都会弹出这个对话框:
 
-[![您确定发布么? ](//img.beamnote.com/2010/are-you-sure.png)](//img.beamnote.com/2010/are-you-sure.png)
+[![您确定发布么?](//img.beamnote.com/2010/are-you-sure.png)](//img.beamnote.com/2010/are-you-sure.png)
 
 现在点击「取消」依然来得及
 

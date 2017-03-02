@@ -9,7 +9,7 @@ categories:
 date: 2014-01-11 22:54:08
 ---
 
-[关于「文曲星」的一些记忆 (一) ](http://beamnote.com/2013/wenquxing-1.html)
+[关于「文曲星」的一些记忆 (一)](//beamnote.com/2013/wenquxing-1/)
 
 ## 二、LAVA 篇
 

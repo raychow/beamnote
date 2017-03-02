@@ -18,9 +18,9 @@ date: 2010-09-06 00:29:36
 
 可记忆伸缩式边栏其实与 Google Wave 无关, 但这是我模仿 Google Wave 时辛苦研究出来的花样, 于是并在一类写了. 平常见到的小工具动态效果多是边栏整体显示隐藏, 本文探讨的是通过 jQuery 对每个小工具的显示隐藏效果, 在这之前您可以先在本文右方动手试试, **带有标题栏的小工具可以单击标题隐藏并通过 Cookies 记忆状态**.
 
-如[《向 Google Wave 迈进 (二) 》](http://beamnote.com/2010/forward-to-the-google-wave-chapter-2.html)所述, WordPress 提供的函数不能自定义小工具正文前后方的内容, 也就不能使用一个块级元素将正文包裹起来, 想要通过 jQuery 操作正文比较麻烦. 所幸的是我们可以指定小工具标题的样式, 所以我们可以通过 `:not()` 选择器反向选择所有正文内容, 进而实现显示隐藏的效果.
+如[《向 Google Wave 迈进 (二) 》](//beamnote.com/2010/forward-to-the-google-wave-chapter-2/)所述, WordPress 提供的函数不能自定义小工具正文前后方的内容, 也就不能使用一个块级元素将正文包裹起来, 想要通过 jQuery 操作正文比较麻烦. 所幸的是我们可以指定小工具标题的样式, 所以我们可以通过 `:not()` 选择器反向选择所有正文内容, 进而实现显示隐藏的效果.
 
-在开始操作之前, 请确保小工具的样式与[《向 Google Wave 迈进 (二) 》](http://beamnote.com/2010/forward-to-the-google-wave-chapter-2.html)中给出的一致.
+在开始操作之前, 请确保小工具的样式与[《向 Google Wave 迈进 (二) 》](//beamnote.com/2010/forward-to-the-google-wave-chapter-2/)中给出的一致.
 
 ## 一、jQuery 实现显示隐藏效果
 

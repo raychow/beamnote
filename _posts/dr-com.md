@@ -17,7 +17,7 @@ Dr.COM 是城市热点公司的一款上网认证软件, 很多高校采用这�
 > 有时间折腾的同学可以尝试在沙盒中安装与运行 Dr.COM
 >
 >
-> 请参见: [《用卡巴斯基掐死 Dr.COM》](http://beamnote.com/2010/kaspersky-2011-throttle-dr-com.html).
+> 请参见: [《用卡巴斯基掐死 Dr.COM》](//beamnote.com/2010/kaspersky-2011-throttle-dr-com/).
 >
 >
 > 如果您已经安装 Dr.COM, 请在这之前卸载软件并重启电脑.

@@ -14,7 +14,7 @@ date: 2012-12-12 22:08:34
 
 离开安全软件的范畴, 我再推荐一些免费又好用的工具软件. 当然, 照样不是「新奇异缺」.
 
-[![与时俱进的电脑软件大搜集 (三) ](//img.beamnote.com/2012/computer-software-collection-3.jpg)](//img.beamnote.com/2012/computer-software-collection-3.jpg)<!-- more -->
+[![与时俱进的电脑软件大搜集 (三)](//img.beamnote.com/2012/computer-software-collection-3.jpg)](//img.beamnote.com/2012/computer-software-collection-3.jpg)<!-- more -->
 
 ## 压缩 / 解压缩软件: 7-Zip
 

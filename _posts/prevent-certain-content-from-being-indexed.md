@@ -16,7 +16,7 @@ date: 2011-02-24 08:00:17
 
 而今我正在写的, 也是关于 SEO 的内容. 以前我说过, 不喜欢写别人重复太多遍的内容, 这篇文章你也可以在网上搜搜, 找不着有人说这个话题.
 
-在使用 [WP Microblogs](http://beamnote.com/2011/wp-microblogs.html) 插件时, 我发现了这个插件对搜索引擎带来的一点改变. 由于之前插件会直接将微博输出到网页, 导致微博内容被搜索引擎索引, 结果有一些流量是通过搜索与微博有关的内容带来的.
+在使用 [WP Microblogs](//beamnote.com/2011/wp-microblogs/) 插件时, 我发现了这个插件对搜索引擎带来的一点改变. 由于之前插件会直接将微博输出到网页, 导致微博内容被搜索引擎索引, 结果有一些流量是通过搜索与微博有关的内容带来的.
 
 [![搜索 微博 关键字](//img.beamnote.com/2011/microblog-search.jpg)](//img.beamnote.com/2011/microblog-search.jpg)
 

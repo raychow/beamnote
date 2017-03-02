@@ -12,7 +12,7 @@ date: 2010-08-08 22:06:48
 
 有些人使用电脑习惯积累各种各样奇怪的「技巧」, 大大小小的论坛中总是充斥着类似「掌握这些你就成为电脑高手」、「电脑必知技巧」 标题的帖子, 我甚至有个同学收集了自认很有用的技巧来考我知不知道, 在初用者眼光看来, 操作快、会按几个自己不了解的按键就可以称作电脑高手了, 这让我觉得十分好笑.
 
-[![为什么要 Shift + Delete? ](//img.beamnote.com/2010/why-shift-delete.png)](//img.beamnote.com/2010/why-shift-delete.png)<!-- more -->
+[![为什么要 Shift + Delete?](//img.beamnote.com/2010/why-shift-delete.png)](//img.beamnote.com/2010/why-shift-delete.png)<!-- more -->
 
 我今天就来探讨探讨关于「技巧」的事情. 在地球某处塞满软体动物的街道上, 某羿介绍了一则新软件[《RecycleBinEx》](http://www.softjie.cn/2010/08/08/recyclebinex/), 作者满怀希望的发布作品以为能解救那些深陷回收站垃圾不能自拔的同学, 结果大多人表示根本就是直接 Shift + Delete 无视回收站, 这和我辛苦码出「技术性」文章收到「不需要」的回应一样让人生气啊, 您不需要就算了, 还留言打击人, 这回应的意义何在呢?
 

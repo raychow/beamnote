@@ -13,7 +13,7 @@ date: 2011-02-11 19:51:43
 
 > 由于学业繁忙, 此插件停止开发, 抱歉.
 
-**抱歉, 由于新浪微博官方 API 修订, 此插件已失效. 详见 [http://beamnote.com/2012/stop-support-of-sina-weibo.html](http://beamnote.com/2012/stop-support-of-sina-weibo.html). **
+**抱歉, 由于新浪微博官方 API 修订, 此插件已失效. 详见 [//beamnote.com/2012/stop-support-of-sina-weibo/](//beamnote.com/2012/stop-support-of-sina-weibo/). **
 
 [![WP Microblogs](//img.beamnote.com/2011/wp-microblogs.jpg)](//img.beamnote.com/2011/wp-microblogs.jpg)<!-- more -->
 
@@ -21,9 +21,9 @@ date: 2011-02-11 19:51:43
 
 WP Microblogs 可以在 WordPress 中显示最新微博, 目前支持新浪微博、腾讯微博、Twitter、网易微博、搜狐微博、饭否、豆瓣除 `XAuth` 之外的所有可用的认证方式对于更加开放的微博 (例如 Twitter、饭否), 只输入用户名即可展示微博.
 
-0.4.0 版更新介绍: [http://beamnote.com/2012/wp-microblogs-0-4-0.html](http://beamnote.com/2012/wp-microblogs-0-4-0.html)
+0.4.0 版更新介绍: [//beamnote.com/2012/wp-microblogs-0-4-0/](//beamnote.com/2012/wp-microblogs-0-4-0/)
 
-0.3.3 版更新介绍: [http://beamnote.com/2011/wp-microblogs-0-3-3.html ](http://beamnote.com/2011/wp-microblogs-0-3-3.html)
+0.3.3 版更新介绍: [//beamnote.com/2011/wp-microblogs-0-3-3/](//beamnote.com/2011/wp-microblogs-0-3-3/)
 
  (本页面将要更新, 请稍等)
 
@@ -84,10 +84,6 @@ WP Microblogs 可以在 WordPress 中显示最新微博, 目前支持新浪微�
 ### 2\. 小工具设置
 
 * 显示相对时间: 如果勾选, 今天发表的微博都将显示相对时间.
-
-[高级应用: 在任何地方显示微博](http://beamnote.com/2011/wp-microblogs.html/2)
-
-[高级应用: 使用自定义样式表与 JS 脚本](http://beamnote.com/2011/wp-microblogs.html/3)
 
 <!--nextpage-->
 

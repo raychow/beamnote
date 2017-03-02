@@ -18,7 +18,7 @@ date: 2015-03-01 20:28:19
 > 3 月 2 号无意中打开了某个 Linode 日本服务器的站点, 简直秒开, 于是把服务器搬到了 Linode 日本.
 接着, 还去 NameCheap 兑换了域名与证书, 域名是 raychow.me, 先开个坑, 以后放点儿 About me 的东西上去, 反正暂时不要钱.
 
-自己做得主题也用的很久了, 做那个主题的时候 Google Wave 还没正式倒闭, 它的设计在当时来讲非常新潮, 所以主题风格模仿了 Google Wave, 后来做的太 High, 以至于出了三篇文章<sup>[[1]](http://beamnote.com/2010/forward-to-the-google-wave-chapter-1.html)[[2]](http://beamnote.com/2010/forward-to-the-google-wave-chapter-2.html)[[3]](http://beamnote.com/2010/forward-to-the-google-wave-chapter-3.html)</sup>介绍如何山寨. 而今 Google 力推的 Material Design, 还是有很重的 Google Wave 影子在里面.
+自己做得主题也用的很久了, 做那个主题的时候 Google Wave 还没正式倒闭, 它的设计在当时来讲非常新潮, 所以主题风格模仿了 Google Wave, 后来做的太 High, 以至于出了三篇文章<sup>[[1]](//beamnote.com/2010/forward-to-the-google-wave-chapter-1/)[[2]](//beamnote.com/2010/forward-to-the-google-wave-chapter-2/)[[3]](//beamnote.com/2010/forward-to-the-google-wave-chapter-3/)</sup>介绍如何山寨. 而今 Google 力推的 Material Design, 还是有很重的 Google Wave 影子在里面.
 
 所以还是想用 Material Design 的主题, 无奈 WordPress 里能用的也没几套, 几乎都有瑕疵, 现在用着的是看上去最顺眼的. 也不知道为什么, 作者自己的网站很正常, 但发布的主题里面有些毛病, 只好一一改了过来.
 

@@ -69,7 +69,7 @@ date: 2010-06-19 20:23:27
 
 在 [http://webkit.org/blog/386/3d-transforms/](http://webkit.org/blog/386/3d-transforms/) 中有一张数字环绕成的图片, 在支持此功能的浏览器中, 鼠标移到目标, 图片会自动 3D 翻转——不需要任何 JavaScript 支持.
 
-在 [http://webkit.org/blog-files/3d-transforms/morphing-cubes.html ](http://webkit.org/blog-files/3d-transforms/morphing-cubes.html)中有一个数字魔方, 在支持此功能的浏览器中, 魔方是正常显示并旋转的. 单击 Toggle Shape, 魔方会转变为转动的十二面体.
+在 [http://webkit.org/blog-files/3d-transforms/morphing-cubes.html](http://webkit.org/blog-files/3d-transforms/morphing-cubes.html) 中有一个数字魔方, 在支持此功能的浏览器中, 魔方是正常显示并旋转的. 单击 Toggle Shape, 魔方会转变为转动的十二面体.
 
 要开启此功能, 请加入以下启动参数:
 > --enable-accelerated-compositing
