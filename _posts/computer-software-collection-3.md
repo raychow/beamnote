@@ -25,63 +25,15 @@ date: 2012-12-12 22:08:34
 [![待压缩的文件夹](//img.beamnote.com/2012/folder_to_be_compressed.png)](//img.beamnote.com/2012/folder_to_be_compressed.png)
 
 测试文件夹大小为 360 MB, 测试结果如下:
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;">格式</td>
-<td style="text-align: center;">压缩软件</td>
-<td style="text-align: center;">花费时间</td>
-<td style="text-align: center;">大小</td>
-<td style="text-align: center;">速度</td>
-<td style="text-align: center;">压缩比</td>
-</tr>
-<tr>
-<td rowspan="2">7z</td>
-<td>7-Zip</td>
-<td style="text-align: right;">2 分 34 秒</td>
-<td style="text-align: right;">58,460 KB</td>
-<td style="text-align: right;">2.34 MB/s</td>
-<td style="text-align: right;">15.86%</td>
-</tr>
-<tr>
-<td>2345 好压</td>
-<td style="text-align: right;">5 分</td>
-<td style="text-align: right;">58,465 KB</td>
-<td style="text-align: right;">1.20 MB/s</td>
-<td style="text-align: right;">15.86%</td>
-</tr>
-<tr>
-<td rowspan="3">zip</td>
-<td>7-Zip</td>
-<td style="text-align: right;">56 秒</td>
-<td style="text-align: right;">93,533 KB</td>
-<td style="text-align: right;">6.43 MB/s</td>
-<td style="text-align: right;">25.37%</td>
-</tr>
-<tr>
-<td>2345 好压</td>
-<td style="text-align: right;">31 秒</td>
-<td style="text-align: right;">97,552 KB</td>
-<td style="text-align: right;">11.61 MB/s</td>
-<td style="text-align: right;">26.46%</td>
-</tr>
-<tr>
-<td>WinRAR</td>
-<td style="text-align: right;">15 秒</td>
-<td style="text-align: right;">96,888 KB</td>
-<td style="text-align: right;">24.00 MB/s</td>
-<td style="text-align: right;">26.28%</td>
-</tr>
-<tr>
-<td>rar</td>
-<td>WinRAR</td>
-<td style="text-align: right;">37 秒</td>
-<td style="text-align: right;">75,004 KB</td>
-<td style="text-align: right;">9.73 MB/s</td>
-<td style="text-align: right;">20.35%</td>
-</tr>
-</tbody>
-</table>
+
+| 格式 | 压缩软件   | 花费时间    | 大小      | 速度        | 压缩比 |
+|------|-----------|------------|-----------|------------|--------|
+| 7z   | 7-Zip     | 2 分 34 秒 | 58,460 KB | 2.34 MB/s  | 15.86% |
+| 7z   | 2345 好压 | 5 分       | 58,465 KB | 1.20 MB/s  | 15.86% |
+| zip  | 7-Zip     | 56 秒      | 93,533 KB | 6.43 MB/s  | 25.37% |
+| zip  | 2345 好压 | 31 秒      | 97,552 KB | 11.61 MB/s | 26.46% |
+| rar  | WinRAR    | 15 秒      | 96,888 KB | 24.00 MB/s | 26.28% |
+| rar  | WinRAR    | 37 秒      | 75,004 KB | 9.73 MB/s  | 20.35% |
 
 测试结果显示, 7z 格式有着最高的压缩比, 但相应所花费的时间也越多. 如果选择 7z 格式, 则 7-zip 显然比 2345 好压更快更优秀 (7z 压缩格式是作者自主开发的, 当然表现更好). 对于 zip 格式, WinRAR 居然拔得头筹, 不仅速度够快而且压缩文件的体积与其它软件相比相差不大.
 

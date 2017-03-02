@@ -22,323 +22,58 @@ OpenWrt 是一个开源的、可自由定制的适合嵌入式设备的 Linux �
 OpenWrt 需要在主流的 GNU/Linux 发行版下编译, 以 Ubuntu 为示例: 安装好 Ubuntu——无论是安装在实体机, 还是在虚拟机 (但虚拟机下的 Ubuntu 在与路由器进行 TFTP 通讯时需要设定桥接连接网路) 均可, 并安装编译 OpenWrt 所需的依赖包.
 
 首先安装的是版本管理和编译工具:
+
 {% codeblock lang:shell %}
 sudo apt-get update
 sudo apt-get install subversion build-essential
 {% endcodeblock %}
+
 此外, 根据系统的不同, 还要安装不同的软件包, 以 Ubuntu 12.04 LTS 为例, 应输入:
+
 {% codeblock lang:shell %}
 sudo apt-get install git-core libncurses5-dev zlib1g-dev gawk flex quilt libssl-dev xsltproc libxml-parser-perl
 {% endcodeblock %}
+
 具体软件包的命名, 可以在下面的表格中找到:
-<table>
-<tbody>
-<tr>
-<th>Prerequisite</th>
-<th>Debian</th>
-<th>Suse</th>
-<th>Red Hat</th>
-<th>OS X (via MacPorts)</th>
-<th>Fedora</th>
-<th>NetBSD</th>
-</tr>
-<tr>
-<td>asciidoc</td>
-<td>asciidoc</td>
-<td>asciidoc</td>
-<td>asciidoc</td>
-<td>asciidoc</td>
-<td>asciidoc</td>
-<td>?</td>
-</tr>
-<tr>
-<td>bash</td>
-<td>bash</td>
-<td>bash</td>
-<td>?</td>
-<td>bash</td>
-<td>?</td>
-<td>bash</td>
-</tr>
-<tr>
-<td>binutils</td>
-<td>binutils</td>
-<td>binutils</td>
-<td>binutils</td>
-<td>binutils</td>
-<td>binutils</td>
-<td>?</td>
-</tr>
-<tr>
-<td>bzip2</td>
-<td>bzip2</td>
-<td>bzip2</td>
-<td>bzip2</td>
-<td>bzip2</td>
-<td>bzip2</td>
-<td>?</td>
-</tr>
-<tr>
-<td>fastjar</td>
-<td>fastjar</td>
-<td>fastjar</td>
-<td>libgcj</td>
-<td>fastjar</td>
-<td>libgcj</td>
-<td>?</td>
-</tr>
-<tr>
-<td>flex</td>
-<td>flex</td>
-<td>flex</td>
-<td>?</td>
-<td>flex</td>
-<td>flex</td>
-<td>?</td>
-</tr>
-<tr>
-<td>git</td>
-<td>git-core</td>
-<td>git-core</td>
-<td>?</td>
-<td>?</td>
-<td>?</td>
-<td>?</td>
-</tr>
-<tr>
-<td>g++</td>
-<td>g++</td>
-<td>gcc-c++</td>
-<td>gcc-c++</td>
-<td>?</td>
-<td>gcc-c++</td>
-<td>?</td>
-</tr>
-<tr>
-<td>gcc</td>
-<td>gcc</td>
-<td>gcc</td>
-<td>gcc</td>
-<td>?</td>
-<td>gcc</td>
-<td>?</td>
-</tr>
-<tr>
-<td>getopt</td>
-<td>util-linux</td>
-<td>util-linux</td>
-<td>?</td>
-<td>getopt</td>
-<td>?</td>
-<td>getopt</td>
-</tr>
-<tr>
-<td>GNU awk</td>
-<td>gawk</td>
-<td>gawk</td>
-<td>gawk</td>
-<td>gawk</td>
-<td>gawk</td>
-<td>?</td>
-</tr>
-<tr>
-<td>gtk2.0-dev</td>
-<td>libgtk2.0-dev</td>
-<td>?</td>
-<td>gtk2-devel</td>
-<td>gtk2</td>
-<td>gtk2-devel</td>
-<td>?</td>
-</tr>
-<tr>
-<td>intltool-update</td>
-<td>intltool</td>
-<td>intltool</td>
-<td>intltool</td>
-<td>intltool</td>
-<td>intltool</td>
-<td>?</td>
-</tr>
-<tr>
-<td>jikes</td>
-<td>—</td>
-<td>jikes</td>
-<td>?</td>
-<td>jikes</td>
-<td>—</td>
-<td>?</td>
-</tr>
-<tr>
-<td>libz, libz-dev</td>
-<td>zlib1g-dev</td>
-<td>zlib-devel</td>
-<td>zlib-devel</td>
-<td>zlib</td>
-<td>zlib-devel</td>
-<td>?</td>
-</tr>
-<tr>
-<td>make</td>
-<td>make</td>
-<td>make</td>
-<td>?</td>
-<td>gmake</td>
-<td>make</td>
-<td>gmake</td>
-</tr>
-<tr>
-<td>ncurses</td>
-<td>libncurses5-dev</td>
-<td>ncurses-devel</td>
-<td>ncurses-devel</td>
-<td>ncurses</td>
-<td>ncurses-devel</td>
-<td>?</td>
-</tr>
-<tr>
-<td>openssl/ssl.h</td>
-<td>libssl-dev</td>
-<td>libopenssl-devel</td>
-<td>openssl-devel</td>
-<td>openssl</td>
-<td>openssl-devel</td>
-<td>?</td>
-</tr>
-<tr>
-<td>patch</td>
-<td>patch</td>
-<td>patch</td>
-<td>?</td>
-<td>patchutils</td>
-<td>patch</td>
-<td>?</td>
-</tr>
-<tr>
-<td>perl-ExtUtils-MakeMaker</td>
-<td>perl-modules</td>
-<td>perl-ExtUtils-MakeMaker</td>
-<td>perl-ExtUtils-MakeMaker</td>
-<td>p5-extutils-makemaker</td>
-<td>perl-ExtUtils-MakeMaker</td>
-<td>?</td>
-</tr>
-<tr>
-<td>python2.6-dev</td>
-<td>python2.6-dev</td>
-<td>python-devel</td>
-<td>?</td>
-<td>python26</td>
-<td>?</td>
-<td>?</td>
-</tr>
-<tr>
-<td>rsync</td>
-<td>rsync</td>
-<td>rsync</td>
-<td>?</td>
-<td>rsync</td>
-<td>rsync</td>
-<td>?</td>
-</tr>
-<tr>
-<td>ruby</td>
-<td>ruby</td>
-<td>ruby</td>
-<td>?</td>
-<td>ruby</td>
-<td>ruby</td>
-<td>?</td>
-</tr>
-<tr>
-<td>sdcc</td>
-<td>sdcc</td>
-<td>sdcc</td>
-<td>sdcc</td>
-<td>sdcc</td>
-<td>sdcc</td>
-<td>?</td>
-</tr>
-<tr>
-<td>unzip</td>
-<td>unzip</td>
-<td>unzip</td>
-<td>?</td>
-<td>unzip</td>
-<td>unzip</td>
-<td>?</td>
-</tr>
-<tr>
-<td>wget</td>
-<td>wget</td>
-<td>wget</td>
-<td>wget</td>
-<td>wget</td>
-<td>wget</td>
-<td>?</td>
-</tr>
-<tr>
-<td>working-sdcc</td>
-<td>—</td>
-<td>?</td>
-<td>?</td>
-<td>?</td>
-<td>—</td>
-<td>?</td>
-</tr>
-<tr>
-<td>xgettext</td>
-<td>gettext</td>
-<td>?</td>
-<td>?</td>
-<td>gettext</td>
-<td>gettext</td>
-<td>?</td>
-</tr>
-<tr>
-<td>xsltproc</td>
-<td>xsltproc</td>
-<td>libxslt</td>
-<td>?</td>
-<td>libxslt</td>
-<td>libxslt</td>
-<td>?</td>
-</tr>
-<tr>
-<td>zlib, zlib-static</td>
-<td>zlib1g-dev</td>
-<td>zlib-devel</td>
-<td>?</td>
-<td>?</td>
-<td>?</td>
-<td>?</td>
-</tr>
-</tbody>
-</table>
+
+| Prerequisite            | Debian          | Suse                    | Red Hat                 | OS X (via MacPorts)   | Fedora                  | NetBSD |
+|-------------------------|-----------------|-------------------------|-------------------------|-----------------------|-------------------------|--------|
+| asciidoc                | asciidoc        | asciidoc                | asciidoc                | asciidoc              | asciidoc                | ?      |
+| bash                    | bash            | bash                    | ?                       | bash                  | ?                       | bash   |
+| binutils                | binutils        | binutils                | binutils                | binutils              | binutils                | ?      |
+| bzip2                   | bzip2           | bzip2                   | bzip2                   | bzip2                 | bzip2                   | ?      |
+| fastjar                 | fastjar         | fastjar                 | libgcj                  | fastjar               | libgcj                  | ?      |
+| flex                    | flex            | flex                    | ?                       | flex                  | flex                    | ?      |
+| git                     | git-core        | git-core                | ?                       | ?                     | ?                       | ?      |
+| g++                     | g++             | gcc-c++                 | gcc-c++                 | ?                     | gcc-c++                 | ?      |
+| gcc                     | gcc             | gcc                     | gcc                     | ?                     | gcc                     | ?      |
+| getopt                  | util-linux      | util-linux              | ?                       | getopt                | ?                       | getopt |
+| GNU awk                 | gawk            | gawk                    | gawk                    | gawk                  | gawk                    | ?      |
+| gtk2.0-dev              | libgtk2.0-dev   | ?                       | gtk2-devel              | gtk2                  | gtk2-devel              | ?      |
+| intltool-update         | intltool        | intltool                | intltool                | intltool              | intltool                | ?      |
+| jikes                   | —               | jikes                   | ?                       | jikes                 | —                       | ?      |
+| libz, libz-dev          | zlib1g-dev      | zlib-devel              | zlib-devel              | zlib                  | zlib-devel              | ?      |
+| make                    | make            | make                    | ?                       | gmake                 | make                    | gmake  |
+| ncurses                 | libncurses5-dev | ncurses-devel           | ncurses-devel           | ncurses               | ncurses-devel           | ?      |
+| openssl/ssl.h           | libssl-dev      | libopenssl-devel        | openssl-devel           | openssl               | openssl-devel           | ?      |
+| patch                   | patch           | patch                   | ?                       | patchutils            | patch                   | ?      |
+| perl-ExtUtils-MakeMaker | perl-modules    | perl-ExtUtils-MakeMaker | perl-ExtUtils-MakeMaker | p5-extutils-makemaker | perl-ExtUtils-MakeMaker | ?      |
+| python2.6-dev           | python2.6-dev   | python-devel            | ?                       | python26              | ?                       | ?      |
+| rsync                   | rsync           | rsync                   | ?                       | rsync                 | rsync                   | ?      |
+| ruby                    | ruby            | ruby                    | ?                       | ruby                  | ruby                    | ?      |
+| sdcc                    | sdcc            | sdcc                    | sdcc                    | sdcc                  | sdcc                    | ?      |
+| unzip                   | unzip           | unzip                   | ?                       | unzip                 | unzip                   | ?      |
+| wget                    | wget            | wget                    | wget                    | wget                  | wget                    | ?      |
+| working-sdcc            | —               | ?                       | ?                       | ?                     | —                       | ?      |
+| xgettext                | gettext         | ?                       | ?                       | gettext               | gettext                 | ?      |
+| xsltproc                | xsltproc        | libxslt                 | ?                       | libxslt               | libxslt                 | ?      |
+| zlib, zlib-static       | zlib1g-dev      | zlib-devel              | ?                       | ?                     | ?                       | ?      |
+
 下列依赖包不能被 `make config` 检查, 应保证它们已被安装:
-<table>
-<tbody>
-<tr>
-<th>Package</th>
-<th>Prerequisite</th>
-<th>Debian</th>
-<th>Suse</th>
-<th>Red Hat</th>
-<th>OS X</th>
-<th>Fedora</th>
-<th>NetBSD</th>
-</tr>
-<tr>
-<td>intltool</td>
-<td>[Perl] XML::Parser</td>
-<td>libxml-parser-perl</td>
-<td>?</td>
-<td>perl-XML-Parser</td>
-<td>?</td>
-<td>?</td>
-<td>?</td>
-</tr>
-</tbody>
-</table>
+
+| Package  | Prerequisite       | Debian             | Suse | Red Hat         | OS X | Fedora | NetBSD |
+|----------|--------------------|--------------------|------|-----------------|------|--------|--------|
+| intltool | [Perl] XML::Parser | libxml-parser-perl | ?    | perl-XML-Parser | ?    | ?      | ?      |
 
 ## 二、获取源代码
 
@@ -385,7 +120,7 @@ cd trunk
 在界面中, 按空格可以将软件包在 Y (快捷键 Y) 、* (快捷键 M) 、N (快捷键 N) 三个状态中切换:
 
 * Y 状态表示选中的包将被编译并包含入固件中;
-* * 状态表示选中的包将被编译, 但并不包含入固件. 可以在使用过程中使用 `opkg` 命令安装此包;
+* \* 状态表示选中的包将被编译, 但并不包含入固件. 可以在使用过程中使用 `opkg` 命令安装此包;
 * N 状态表示选中的包将不会被编译.
 
 ## 四、进行编译

@@ -18,60 +18,15 @@ date: 2010-06-11 14:24:54
 如果将这些内容存放在网路并定期同步, 不仅解决了资料可能丢失的问题, 也能够通过网路这个平台同步到所有支持的设备上.
 
 Google, 这个频繁出现在我博客的品牌, 今天又一次成为了主角. Google 提供了一系列的服务, 包括存放日历、联系人、笔记等资料的平台, 它们就是 [Google 日历](https://www.google.com/calendar/)、[Google 通讯录](https://www.google.com/contacts)、[Google 笔记本](https://www.google.com/notebook/). Google 也提供了与移动设备同步的方法, 下表列出了各平台的支持情况:
-<table>
-<thead>
-<tr>
-<th>平台</th>
-<td>BlackBerry</td>
-<td>iPhone</td>
-<td>Nokia S60</td>
-<td>SyncML</td>
-<td>Windows</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Gmail 同步</td>
-<td></td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td></td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-</tr>
-<tr>
-<td>通讯录同步</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-</tr>
-<tr>
-<td>日历同步</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td></td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-</tr>
-<tr>
-<td>Push 支持</td>
-<td></td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td></td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-</tr>
-<tr>
-<td>管理</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-<td></td>
-<td>![](https://www.google.com/images/icons/check-14x13.gif)</td>
-</tr>
-</tbody>
-</table>
+
+| 平台       | BlackBerry                                               | iPhone                                                   | Nokia S60                                                | SyncML                                                   | Windows                                                  |
+|------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| Gmail 同步 |                                                          | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) |                                                          | ![](https://www.google.com/images/icons/check-14x13.gif) |
+| 通讯录同步 | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) |
+| 日历同步   | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) |                                                          | ![](https://www.google.com/images/icons/check-14x13.gif) |
+| Push 支持  |                                                          | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) |                                                          | ![](https://www.google.com/images/icons/check-14x13.gif) |
+| 管理       | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) | ![](https://www.google.com/images/icons/check-14x13.gif) |                                                          | ![](https://www.google.com/images/icons/check-14x13.gif) |
+
 Google 笔记本是 Google 已经停止开发的一个项目, 目前已经能够满足记录需求. 平时有什么中意的文字片段, 直接粘贴到笔记本中即可.
 
 下面说一下诺基亚 S60 系列同步的方法.

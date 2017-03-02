@@ -168,95 +168,41 @@ wm_get_tweets( $args ); // 以数组形式返回最新的数条微博
 
 #### 占位符:
 
-<table border="0">
-<tbody>
-<tr>
-<td>[type]</td>
-<td>微博服务商名称</td>
-</tr>
-<tr>
-<td>[name]</td>
-<td>用户昵称</td>
-</tr>
-<tr>
-<td>[user_url]</td>
-<td>用户 URL</td>
-</tr>
-<tr>
-<td>[tweet_url]</td>
-<td>微博发言 URL</td>
-</tr>
-<tr>
-<td>[time]</td>
-<td>发言时间</td>
-</tr>
-<tr>
-<td>[text]</td>
-<td>发言内容</td>
-</tr>
-<tr>
-<td>[pic_small]</td>
-<td>发言图片 (小) </td>
-</tr>
-<tr>
-<td>[pic_big]</td>
-<td>发言图片 (大) </td>
-</tr>
-<tr>
-<td>[rt_name]</td>
-<td>锐推微博的用户昵称</td>
-</tr>
-<tr>
-<td>[rt_user_url]</td>
-<td>锐推微博的用户 URL</td>
-</tr>
-<tr>
-<td>[rt_tweet_url]</td>
-<td>锐推微博的 URL</td>
-</tr>
-<tr>
-<td>[rt_text]</td>
-<td>锐推内容</td>
-</tr>
-<tr>
-<td>[rt_pic_small]</td>
-<td>锐推图片 (小) </td>
-</tr>
-<tr>
-<td>[rt_pic_big]</td>
-<td>锐推图片 (大) </td>
-</tr>
-</tbody>
-</table>
+| 占位符         | 说明               |
+|----------------|--------------------|
+| [type]         | 微博服务商名称     |
+| [name]         | 用户昵称           |
+| [user_url]     | 用户 URL           |
+| [tweet_url]    | 微博发言 URL       |
+| [time]         | 发言时间           |
+| [text]         | 发言内容           |
+| [pic_small]    | 发言图片 (小)      |
+| [pic_big]      | 发言图片 (大)      |
+| [rt_name]      | 锐推微博的用户昵称 |
+| [rt_user_url]  | 锐推微博的用户 URL |
+| [rt_tweet_url] | 锐推微博的 URL     |
+| [rt_text]      | 锐推内容           |
+| [rt_pic_small] | 锐推图片 (小)      |
+| [rt_pic_big]   | 锐推图片 (大)      |
 
 以上占位符可用于 `tweet_format`、`pic_format`、`rt_format`、`rt_pic_format`.
 
-<table border="0">
-<tbody>
-<tr>
-<td>[pic]</td>
-<td>发言图片 HTML 结构</td>
-</tr>
-</tbody>
-</table>
+| 占位符         | 说明               |
+|----------------|-------------------|
+| [pic]          | 发言图片 HTML 结构 |
+
 此占位符将按照 `pic_format` 的格式替换, 可用于 `tweet_format`、`rt_format`、`rt_pic_format`.
-<table border="0">
-<tbody>
-<tr>
-<td>[rt_pic]</td>
-<td>锐推微博图片 HTML 结构</td>
-</tr>
-</tbody>
-</table>
+
+| 占位符         | 说明                  |
+|---------------|-----------------------|
+| [rt_pic]      | 锐推微博图片 HTML 结构 |
+
 此占位符将按照 `rt_pic_format` 的格式替换, 可用于 `tweet_format`、`rt_format`.
-<table border="0">
-<tbody>
-<tr>
-<td>[rt]</td>
-<td>锐推 HTML 结构</td>
-</tr>
-</tbody>
-</table>
+
+| 占位符         | 说明          |
+|---------------|---------------|
+| [rt]          | 锐推 HTML 结构 |
+
 此占位符将按照 `rt_format` 的格式替换, 可用于 `tweet_format`.
 
 [![Tweet](//img.beamnote.com/2011/tweet-structure.png)](//img.beamnote.com/2011/tweet-structure.png)
