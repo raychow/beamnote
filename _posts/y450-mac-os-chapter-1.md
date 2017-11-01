@@ -11,7 +11,7 @@ date: 2010-05-20 15:44:02
 
 最近几日一直在折腾 Mac OS, 让它运行在 Y450 上, 就是所谓的「黑苹果」. 虽然时间花去不少, 现在仍有一些问题无法解决, 但大体上已经正常, 先看看偶的成果 :-).
 
-[![Mac OS X](//img.beamnote.com/2010/mac-os-x-500.png)](//img.beamnote.com/2010/2010-05-18_10-48-46.png)<!-- more -->
+[![Mac OS X](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/mac-os-x-500.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-05-18_10-48-46.png)<!-- more -->
 
 如果您 (指非苹果电脑使用者) 也想体验 Mac OS 风情的话, 建议您先去 [MacUknow](http://www.macuknow.com)、[netkas.org](http://netkas.org/)、[Macidea](http://www.macidea.com/) 等坛子泡泡, 安装黑苹果的路途可能很漫长, 其中某些步骤也很危险, 建议您具备一定常识之后再进行安装.
 
@@ -50,7 +50,7 @@ Mac OS 是很优秀的一款系统, 不仅速度快, 画面也很耐看. 如果�
     2. 对于 Windows XP / 2003 或更低版本用户, 请使用第三方分区软件完成此操作, 如 Acronis Disk Director Suite;
 
 3. 您将看见分区列表中有一块未分配空间. 右键单击这一部分, 选择「新建简单卷」, 设定大小为 6963 MB (6.8 GB * 1024 MB/GB = 6963.2MB), 分配一个驱动器号, 不要格式化这个卷; 之后, 选择剩下的未分配空间, 新建一个占满剩余空间的简单卷.
-[![计算机管理 - 磁盘管理](//img.beamnote.com/2010/mac-os-mmc.png)](//img.beamnote.com/2010/mac-os-mmc.png)
+[![计算机管理 - 磁盘管理](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/mac-os-mmc.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/mac-os-mmc.png)
 
 至此, 分区工作完成. 如果在系统安装完成后需要删除安装分区, 请确保此分区紧邻想要合并到的分区.
 
@@ -61,9 +61,9 @@ Mac OS 是很优秀的一款系统, 不仅速度快, 画面也很耐看. 如果�
 1. 如果您没有 Java 的运行环境, 请先安装. 之后, 安装 HFSExplorer;
 2. 打开 HFSExplorer, 选择 File - Load file system from file, 打开下载的系统镜像 Mac.OS.X.10.6.3.Retail.dmg;
 3. 选择读取 "Mac_OS_X" (Apple_HFS) 分区;
-[![Choose Apple Partition Map partition](//img.beamnote.com/2010/choose-apple-partition-map-partition.png)](//img.beamnote.com/2010/choose-apple-partition-map-partition.png)
+[![Choose Apple Partition Map partition](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/choose-apple-partition-map-partition.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/choose-apple-partition-map-partition.png)
 4. 选择 Tools - Create disk image..., 保存提取出的安装镜像, 必须放置在 NTFS 分区;
-[![Create disk image](//img.beamnote.com/2010/create-disk-image.png)](//img.beamnote.com/2010/create-disk-image.png)
+[![Create disk image](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/create-disk-image.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/create-disk-image.png)
 5. 等待写入完成.
 
 ## 四、写入安装镜像
@@ -73,7 +73,7 @@ Mac OS 是很优秀的一款系统, 不仅速度快, 画面也很耐看. 如果�
 3. 单击开始, 程序将会向选择的分区写入安装文件;
 4. 耐心等待写入完成, 此时 Windows 会认为程序停止响应, 请不要强制关闭该程序;
 5. 完成后, 请检查是否有「Change Partition type to AF: Success」这一行, 如果出现 Failed, 请格式化分区重新开始, 或者使用分区工具将分区格式标示为 AF, HFS 分区应有 AF 标记.
-[![Leopard 硬盘安装助手](//img.beamnote.com/2010/leopard-setup-tools.png)](//img.beamnote.com/2010/leopard-setup-tools.png)
+[![Leopard 硬盘安装助手](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/leopard-setup-tools.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/leopard-setup-tools.png)
 
 ## 五、修改安装文件
 
@@ -113,10 +113,10 @@ Mac OS 仅为苹果电脑开发, 所以即使使用了 DSDT 文件, Mac OS 也�
     3. 如果为 IDE, 请修改至 AHCI. 这会造成 Windows 无法启动, 请在谷歌[搜索](http://www.google.com/search?hl=zh-CN&amp;newwindow=1&amp;q=Y450+AHCI+%E8%93%9D%E5%B1%8F&amp;aq=f&amp;aqi=&amp;aql=&amp;oq=&amp;gs_rfai=)自行解决.
 
 2. 重新启动计算机, 进入 Bootthink, 按左右键将光标移动至「Mac OS X Install DVD」;
-[![Bootthink](//img.beamnote.com/2010/bootthink.jpg)](//img.beamnote.com/2010/bootthink.jpg)
+[![Bootthink](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/bootthink.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/bootthink.jpg)
 3. 建议您此时按下 F8, 键入「-x32」, 按下回车. 这样做使得安装器调用 32 位系统内核. 不选择 64 位的原因是很多程序与驱动与 64 位系统不相容, Y450 的网卡驱动就不能工作于 64 位模式;
 4. 不出意外将进入语言选择界面, 如果出现五国语言的错误画面 (这就是使用黑苹果最容易遇到的画面了), 请关机, 将上述步骤检查一遍……;
-[![Mac OS 选择语言](//img.beamnote.com/2010/mac-select-language.jpg)](//img.beamnote.com/2010/mac-select-language.jpg)
+[![Mac OS 选择语言](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/mac-select-language.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/mac-select-language.jpg)
 5. 选择语言之后, 不要急着安装, 先选择顶部菜单的 实用工具 - 磁盘工具:
 
     1. 在左边的磁盘与分区列表中, 单击之前分出的系统分区, 可以通过分区位置、大小判断;

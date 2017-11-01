@@ -12,7 +12,7 @@ date: 2010-10-17 22:37:18
 
 之所以会弄出这个命题, 是突然之间的一个想法: 想让博客的背景随着访问者当地的天气变化而变化. 好天气, 微笑的晴天娃娃; 下雨天, 晶莹的水滴点点; 飘雪了, 唯美的白色浪漫.
 
-[![获取访问者的天气](//img.beamnote.com/2010/get-the-weather-of-visitors.png)](//img.beamnote.com/2010/get-the-weather-of-visitors.png)<!-- more -->
+[![获取访问者的天气](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/get-the-weather-of-visitors.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/get-the-weather-of-visitors.png)<!-- more -->
 
 虽然目的简单, 做起来缺有点绕路, 单从数据源来说, 各提供天气服务的网站都不会公开天气预报的接口, 只能在网路上搜寻大家撞见的地址.
 

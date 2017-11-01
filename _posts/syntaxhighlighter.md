@@ -13,7 +13,7 @@ date: 2011-01-27 21:03:15
 > 题外话: 上次提到的显示各种微博的 WordPress 插件进度可喜, 已经完成了九个微博的 OAuth、Basic HTTP 验证部分.
 写这篇文章时我非常郁闷, 因为这篇本是介绍如何智能判断加载 SyntaxHighlighter 代码高亮脚本的. 我有一个习惯, 不喜欢写太多别人写烂的东西. 在搜索 WordPress 插件库时, 我发现了 [Auto SyntaxHighlighter](http://www.akii.org/auto-syntaxhighlighter.html) 这款插件, 完完全全的实现了期望的内容——自动根据本文出现的代码加载相应脚本, 甚至更强. 既然这样, 我就告诉大家选择 SyntaxHighlighter 的理由吧.
 
-[![SyntaxHighlighter](//img.beamnote.com/2011/syntaxhighlighter.jpg)](//img.beamnote.com/2011/syntaxhighlighter.jpg)<!-- more -->
+[![SyntaxHighlighter](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/syntaxhighlighter.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/syntaxhighlighter.jpg)<!-- more -->
 
 之前我使用代码发芽网高亮代码, 先将代码贴到代码发芽网, 网站将代码高亮并给出 HTML  代码, 再贴到编辑器中. 我不太喜欢的是:
 
@@ -38,4 +38,4 @@ WordPress 有一些代码高亮插件, 如 SyntaxHighlighter Evolved, 它们的�
 
 我更倾向减少服务器资源占用, 因此选择 Auto SyntaxHighlighter. 它还有一大杀手锏, 可以为 TinyMCE 编辑器添加一个插入代码的按钮, 不仅不用记忆开启高亮的标签格式, 也可以自动实体化 < > 等符号, 贴心又方便.
 
-[![Auto SyntaxHighlighter](//img.beamnote.com/2011/auto-syntaxhighlighter.jpg)](//img.beamnote.com/2011/auto-syntaxhighlighter.jpg)
+[![Auto SyntaxHighlighter](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/auto-syntaxhighlighter.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/auto-syntaxhighlighter.jpg)

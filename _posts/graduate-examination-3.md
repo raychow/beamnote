@@ -8,7 +8,7 @@ categories:
 date: 2011-06-29 12:59:26
 ---
 
-[![考研日记三](//img.beamnote.com/2011/graduate-examination-3.jpg)](//img.beamnote.com/2011/graduate-examination-3.jpg)<!-- more -->
+[![考研日记三](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/graduate-examination-3.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/graduate-examination-3.jpg)<!-- more -->
 
 ## 快回家了
 
@@ -50,4 +50,4 @@ date: 2011-06-29 12:59:26
 
 很久没有如此喜欢过一整张专辑, 如果我的评分能算数的话绝对是五星了. 我喜欢林宥嘉的唱腔, 那是邻家男孩的感觉, 桀骜、纯净、陶醉、特别, 打动人心.
 
-[![林宥嘉 - 美妙生活](//img.beamnote.com/2011/perfect-life.jpg)](//img.beamnote.com/2011/perfect-life.jpg)
+[![林宥嘉 - 美妙生活](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/perfect-life.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/perfect-life.jpg)

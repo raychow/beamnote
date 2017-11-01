@@ -12,14 +12,14 @@ date: 2010-06-04 22:16:50
 
 以本站刚刚更换的 Logo 图片为例 (现在我又换回来了) :
 
-[![Logo Snapshot](//img.beamnote.com/2010/logosnap.jpg)](//img.beamnote.com/2010/logosnap.jpg)<!-- more -->
+[![Logo Snapshot](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/logosnap.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/logosnap.jpg)<!-- more -->
 
 白色的 Logo 实际上是一张 GIF 图像. 也许您会疑问, 由于不支持 Alpha 通道, 原本在 Photoshop 中看起来很平滑的图像保存后会出现锯齿, 就像下面这样:
 
-[![Bad Logo Snapshot](//img.beamnote.com/2010/logobadsnap.jpg)](//img.beamnote.com/2010/logobadsnap.jpg)
+[![Bad Logo Snapshot](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/logobadsnap.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/logobadsnap.jpg)
 
 在曲线的地方锯齿就更明显, 可以用这个方法弥补: 在保存 GIF 时, 将杂边选择为与此图片周围背景色相近的颜色. 上例中选择的是绿色.
 
-[![保存索引色](//img.beamnote.com/2010/saveindex.png)](//img.beamnote.com/2010/saveindex.png)
+[![保存索引色](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/saveindex.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/saveindex.png)
 
 此时, 图像边缘会出现刚刚选定的颜色, 就可以与背景融合, 消除锯齿了.

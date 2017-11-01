@@ -12,7 +12,7 @@ date: 2010-11-19 14:01:32
 
 WordPress 的自定义栏目 (在 WordPress 2.9.x 中还称为「自定义域」, 以下统称「自定义栏目」) 功能为更方便的拓展 WordPress 功能提供了可能, 然而默认的自定义栏目面板就不太友好了, 很多自定义栏目都直接用英文储存, 需要填写的时候还要手动添加; 只能填写文本, 对于某些特殊要求 (例如布尔型及有限个枚举) 的自定义栏目还要记住填写方式.
 
-[![WordPress 自定义字段](//img.beamnote.com/2010/custom-fields.png)](//img.beamnote.com/2010/custom-fields.png)<!-- more -->
+[![WordPress 自定义字段](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/custom-fields.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/custom-fields.png)<!-- more -->
 
 我先推荐一个相当强大的插件: [Custom Field Template](http://wordpress.org/extend/plugins/custom-field-template/), 因为要自定义的东西比较多, 所以设置页面显得很繁杂, 但要修改的内容并不多.
 
@@ -20,7 +20,7 @@ WordPress 的自定义栏目 (在 WordPress 2.9.x 中还称为「自定义域」
 
 > 囧啊囧, 忘记放效果示例了, 大家别再问这是神马东西了, 下图就是, 它出现在写文章的文本框的下方……
 >
-> [![WordPress 自定义字段](//img.beamnote.com/2010/my-custom-field.png)](//img.beamnote.com/2010/my-custom-field.png)
+> [![WordPress 自定义字段](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/my-custom-field.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/my-custom-field.png)
 
 按照惯例, 我们需要在主题的 `functions.php` 中插入代码, 当然你要根据自己的需要修改啦.
 

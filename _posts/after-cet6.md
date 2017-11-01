@@ -11,7 +11,7 @@ tags:
 
 开学已经三天了, 开学前一直被教务管理系统蒙骗以为本学期课很少, 拿到课表以后才发现还是超多课, 全是无聊的课, 所以对大学生活又萌发超多感想.
 
-[![写在六级后](//img.beamnote.com/2010/after-cet6.jpg](//img.beamnote.com/2010/after-cet6.jpg)<!-- more -->
+[![写在六级后](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/after-cet6.jpg](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/after-cet6.jpg)<!-- more -->
 
 大学累吗? 这学期我感觉累. 现在我上课的情形, 基本一上就是半天, 上课的时候不是发呆、玩手机就是睡觉, 偶尔听下课. 我越来越感觉到, 上课像是演戏, 每天按照台本进行, 没有一点意思. 尽管如此, 考试依然容易通过, 如上学期那样, 一学期基本听不进课, 只在考试前三天复习 (预习……? ) 了一下考试内容, 居然拿到了第十名的成绩.
 

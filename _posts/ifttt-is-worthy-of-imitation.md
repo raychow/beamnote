@@ -14,7 +14,7 @@ ifttt 基于任务的条件触发, 类似编程语言, 即: 「若某平台发�
 
 目前 ifttt 尽管提供了不少 Channel, 但适合国内网民使用的还真不多, 我只想到两条对我有用的 Task:
 
-[![ifttt](//img.beamnote.com/2011/ifttt.png)](//img.beamnote.com/2011/ifttt.png)
+[![ifttt](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/ifttt.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/ifttt.png)
 
 1. 在火影忍者有更新的时候通过短信通知我;
 2. 在我的 Google Reader 有新分享条目时同步到 Twitter.<!-- more -->

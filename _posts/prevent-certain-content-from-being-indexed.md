@@ -12,13 +12,13 @@ date: 2011-02-24 08:00:17
 
 自从建立博客以来, 我一直坚持做好内容, 少弄 SEO 的原则. 有些博客是「研究」SEO 的, 从我一年的观察看, 99% 的 SEO 博客内容都是千篇一律的: 刚开始的说些如何设置关键词, 然后聊聊内链、PR, 再说说优化谷歌、百度的注意事项, 最后没啥写的开始写诗歌散文的都有.
 
-[![冰山](//img.beamnote.com/2011/iceburg.jpg)](//img.beamnote.com/2011/iceburg.jpg)<!-- more -->
+[![冰山](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/iceburg.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/iceburg.jpg)<!-- more -->
 
 而今我正在写的, 也是关于 SEO 的内容. 以前我说过, 不喜欢写别人重复太多遍的内容, 这篇文章你也可以在网上搜搜, 找不着有人说这个话题.
 
 在使用 [WP Microblogs](//beamnote.com/2011/wp-microblogs/) 插件时, 我发现了这个插件对搜索引擎带来的一点改变. 由于之前插件会直接将微博输出到网页, 导致微博内容被搜索引擎索引, 结果有一些流量是通过搜索与微博有关的内容带来的.
 
-[![搜索 微博 关键字](//img.beamnote.com/2011/microblog-search.jpg)](//img.beamnote.com/2011/microblog-search.jpg)
+[![搜索 微博 关键字](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/microblog-search.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/microblog-search.jpg)
 
 这张图被搜索的关键词, 是我在新浪转载的一条[微博](http://t.sina.com.cn/1691265967/5en0SpHilYL)中的内容. 访客通过这个关键词进来后很难找到他真正需要的内容, 多半是关闭窗口走人.
 

@@ -10,7 +10,7 @@ date: 2015-03-05 03:37:05
 
 初学 Haskell 不久, 惊叹函数式编程的强大、优雅之余, 更多是深深地受虐于 Haskell 的大坑小坑中. 本是秉着「程序员应该要学习至少一门面向对象语言、一门函数式语言, 以及一门动态语言」的宗旨, 想对 Haskell 做些简单的了解, 谁曾想随着 [Learn you a Haskell](http://learnyouahaskell.com/) 的深入阅读, 我愈发喜爱这门语言. 于是, 正要八经的学下去吧. 为明此志, 决心开始撰写学习札记, 也算为博客注入活力了.
 
-[![Haskell](//img.beamnote.com/2015/haskell.png)](//img.beamnote.com/2015/haskell.png)<!-- more -->
+[![Haskell](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2015/haskell.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2015/haskell.png)<!-- more -->
 
 ## 一、初学者
 

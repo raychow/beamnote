@@ -11,7 +11,7 @@ date: 2015-07-17 21:15:10
 
 百技是我进入阿里以来参加的第一场大型培训, 其实第一次听说要跨越九天时间去西溪参加培训, 我是拒绝的, 因为, 你不能让我去, 我马上就去, 第一我要早起, 因为我不愿每天要早起赶班车, 班车不肯走高速, 不知道路上要颠簸的「duang」几下, 很颠、很晕, 这样小伙伴一定会骂我, 你肯定坐的是过山车, 根本没有这样的班车, 就证明上面那个是假的. 后来我遇到了战狼队的小伙伴们, 大家都很 nice, 团队协作根本不用加特技, 于是九天时间就这样开心的度过了.
 
-[![](//img.beamnote.com/2015/alibaba-xixi.jpg)](//img.beamnote.com/2015/alibaba-xixi.jpg)<!-- more -->
+[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2015/alibaba-xixi.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2015/alibaba-xixi.jpg)<!-- more -->
 
 ## 一、小伙伴们
 
@@ -64,6 +64,6 @@ date: 2015-07-17 21:15:10
 
 放张毕业照吧.
 
-[![](//img.beamnote.com/2015/baiji-small.jpg)](//img.beamnote.com/2015/baiji.jpg)
+[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2015/baiji-small.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2015/baiji.jpg)
 
 传送门: [鸭绒](http://www.atatech.org/articles/37299)、[淓徽](http://www.atatech.org/articles/37332)、[夕岚](http://www.atatech.org/articles/37348).

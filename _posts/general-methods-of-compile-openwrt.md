@@ -13,7 +13,7 @@ OpenWrt 是一个开源的、可自由定制的适合嵌入式设备的 Linux �
 
 要获得 OpenWrt 二进制文件, 除了寻找官方或私人编译之固件, 更可以自行编译. 自行编译的好处在于可自行定制组件, 而且某些组件对版本要求比较严格, 老版本的固件 (甚至是前一天刷入的) 往往无法安装官网提供的组件, 自行编译就不存在这样的问题; 另外, 还可将配置写入固件, 这样刷好机后无需重新配置.
 
-[![OpenWrt](//img.beamnote.com/2013/openwrt.jpg)](//img.beamnote.com/2013/openwrt.jpg)<!-- more -->
+[![OpenWrt](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2013/openwrt.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2013/openwrt.jpg)<!-- more -->
 
 编译 OpenWrt 的一般方法可以总结如下:
 

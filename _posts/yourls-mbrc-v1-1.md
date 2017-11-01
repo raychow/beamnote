@@ -15,7 +15,7 @@ date: 2010-07-29 21:19:09
 * 一键升级
 * 代码优化
 
-[![YOURLS 加强版 v1.1](//img.beamnote.com/2010/yourls-mbrc-v1-1.png)](//img.beamnote.com/2010/yourls-mbrc-v1-1.png)<!-- more -->
+[![YOURLS 加强版 v1.1](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/yourls-mbrc-v1-1.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/yourls-mbrc-v1-1.png)<!-- more -->
 
 ## 升级方法
 
@@ -31,7 +31,7 @@ date: 2010-07-29 21:19:09
 
 现在, YOURLS 加强版加入了黑名单管理功能, 进入控制版单击「管理」就可以进入:
 
-[![YOURLS 加强版 v1.1](//img.beamnote.com/2010/2010-07-29_20-53-07.png)](//img.beamnote.com/2010/2010-07-29_20-53-07.png)
+[![YOURLS 加强版 v1.1](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-29_20-53-07.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-29_20-53-07.png)
 
 进入时会检查版本喔\! 如果收到初始化错误的讯息, 说明您忘记升级黑名单数据表了.
 
@@ -39,7 +39,7 @@ date: 2010-07-29 21:19:09
 
 您将发现黑名单管理界面和控制版是一致的 (花了我大量时间分析代码 :-( ) :
 
-[![YOURLS 加强版 v1.1](//img.beamnote.com/2010/2010-07-29_21-03-04.png)](//img.beamnote.com/2010/2010-07-29_21-03-04.png)
+[![YOURLS 加强版 v1.1](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-29_21-03-04.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-29_21-03-04.png)
 
 操作方法与控制版相同, 不再赘述.
 

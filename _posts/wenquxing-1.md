@@ -13,11 +13,11 @@ date: 2013-11-02 22:45:59
 
 我的文曲星应该是在初二或者初三的时候入手的, 那个时候还不了解电子词典的功能什么的, 完全是初中时的小伙伴推荐的, 似乎理由是可以写 BASIC (好像还强调了红外线功能), 于是以学习的名义向父母申报了购买文曲星 NC2600C, 这个东西看起来是这个样子的:
 
-[![文曲星 NC2600C](//img.beamnote.com/2013/nc2600c.png)](//img.beamnote.com/2013/nc2600c.png)<!-- more -->
+[![文曲星 NC2600C](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2013/nc2600c.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2013/nc2600c.png)<!-- more -->
 
 还有这个样子的:
 
-[![文曲星 NC2600C](//img.beamnote.com/2013/nc2600c-2.png)](//img.beamnote.com/2013/nc2600c-2.png)
+[![文曲星 NC2600C](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2013/nc2600c-2.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2013/nc2600c-2.png)
 
 怎么样, 是不是一种笔记本式的的高大上感觉啊?
 

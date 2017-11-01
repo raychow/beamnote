@@ -11,7 +11,7 @@ date: 2012-07-27 22:35:10
 
 各位好, 真的是好久没写博客了, 上一篇文章还是在近两个月前写的. 现在到了新学校, 每天都比较忙 (其实是 UP Time 很多但是利用率不高), 上午起床后出门直到晚上十点回来, 冲完凉什么的做完了就快十一点了, 剩不了多少时间做其它事情.
 
-[![IPv6 的一点事儿](//img.beamnote.com/2012/about-ipv6.jpg)](//img.beamnote.com/2012/about-ipv6.jpg)<!-- more -->
+[![IPv6 的一点事儿](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/about-ipv6.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/about-ipv6.jpg)<!-- more -->
 
 学校有 IPv6 网路, 在此之前我从未接触过, 所以买了一个路由器折腾了一下, 下面是一点体验 (不做任何实际操作上的担保).
 

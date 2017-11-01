@@ -11,7 +11,7 @@ tags:
 
 大学已快三年时间, 虽不是整日浑浑噩噩, 自学了些许知识, 但生活一直散漫. 这几年的时间我渐渐认识到, 凭我现在的学校、现在的专业、现在的态度, 是找不到什么好工作的; 再者, 从小学时期的理想——在象牙塔学习计算机专业到现在还未实现. 毅然决然做下这个决定.
 
-[![决心](//img.beamnote.com/2011/determination.jpg)](//img.beamnote.com/2011/determination.jpg)<!-- more -->
+[![决心](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/determination.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/determination.jpg)<!-- more -->
 
 人生有几个重要的转折, 考大学自是其中之一. 这个转折我没经历好 (我现在也能如此坦白), 所以研究生必定是我下个重要转折点. 有的人考研是为了涨薪水的筹码, 有的人是为了避开找工难的现状, 有的人是为了混张文凭装饰门面, 但我可以说, 我是为了我儿时的理想, 也是为了充实自己.
 

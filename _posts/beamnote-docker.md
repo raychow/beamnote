@@ -10,7 +10,7 @@ date: 2017-03-02 22:52:31
 
 Docker 是现在炙手可热的轻量级虚拟化技术, 它在本月将迎来四周岁的生日. 最近我借着翻译集团 Docker 文档的机会, 对 Docker 进行了学习, 便计划着重新动工这个年久失修的博客.
 
-[![Docker](//img.beamnote.com/2017/beamnote-docker.png)](//img.beamnote.com/2017/beamnote-docker.png)<!-- more -->
+[![Docker](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2017/beamnote-docker.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2017/beamnote-docker.png)<!-- more -->
 
 Docker 能带给个人博客什么好处呢? 我想了想, 大概有这几点:
 

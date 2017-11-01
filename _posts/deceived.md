@@ -10,7 +10,7 @@ date: 2010-10-07 18:59:49
 
 黄金周的 2 号到 6 号, 我一直在厦门与泉州奔波着, 不对, 是旅行. 这是我第一次完完全全的自助游——自己订机票、自己订酒店、自己划路线、自己找公交. 本以为自助游会比较便宜, 但这一趟下来可比跟团旅行贵了很多倍, 就当是宝贵的经验吧.
 
-[![黑店](//img.beamnote.com/2010/deceived.png)](//img.beamnote.com/2010/deceived.png)<!-- more -->
+[![黑店](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/deceived.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/deceived.png)<!-- more -->
 
 
 (配图与本文无关)

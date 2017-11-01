@@ -15,7 +15,7 @@ date: 2010-06-15 15:57:32
 
 还是有一些话要说的, 写在这里吧, 可能偏激了点, 还望海涵.
 
-[![WordPress SEO User](//img.beamnote.com/2010/the-words-to-novice.png)](//img.beamnote.com/2010/the-words-to-novice.png)<!-- more -->
+[![WordPress SEO User](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/the-words-to-novice.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/the-words-to-novice.png)<!-- more -->
 
 ## 关于 WordPress
 

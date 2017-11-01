@@ -12,7 +12,7 @@ date: 2011-05-11 17:35:03
 
 好的习惯对于做任何事都很重要, 考研也不例外. 每日都要去图书馆看书, 可以说是我已经养成的习惯. 「在宿舍看书」这种话是骗自己的, 宿舍绝非一个看书的好习惯——它无法提供好的学习环境. 夏天到了, 在宿舍看书倒不如说是蒸桑拿, 更重要的, 没有人陪你一起学习. 当舍友都在打机、看微博的时候, 你还能静下心么?
 
-[![考研日记二](//img.beamnote.com/2011/graduate-examination-2.jpg)](//img.beamnote.com/2011/graduate-examination-2.jpg)<!-- more -->在习惯的督促下, 如果不去图书馆看书, 我心里居然会有负罪感, 所以「习惯的力量是巨大的」这句话一点不假.
+[![考研日记二](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/graduate-examination-2.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/graduate-examination-2.jpg)<!-- more -->在习惯的督促下, 如果不去图书馆看书, 我心里居然会有负罪感, 所以「习惯的力量是巨大的」这句话一点不假.
 
 ## 早起不困难
 

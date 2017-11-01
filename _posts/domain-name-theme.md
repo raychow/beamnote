@@ -9,7 +9,7 @@ tags:
 
 呼呼, 弄了一个多星期终于把一切都搞定了, 不容易啊, 所以在这里宣告一下.
 
-[![域名、站名、主题](//img.beamnote.com/2010/domain-name-theme.png)](//img.beamnote.com/2010/domain-name-theme.png)<!-- more -->
+[![域名、站名、主题](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/domain-name-theme.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/domain-name-theme.png)<!-- more -->
 
 ## 一、换域名
 

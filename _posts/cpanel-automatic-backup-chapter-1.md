@@ -11,7 +11,7 @@ date: 2010-08-02 15:22:19
 
 经常备份网站是一个良好的习惯, 但无论是 cPanel 面板或是 WordPress后台都没有提供自动备份的功能. 如果手动定期备份, 不仅操作麻烦, 还容易忘记; WordPress 虽然有备份插件, 但有些人对插件有恐惧症, 认为少用为好. 其实, 我们还可以利用 cPanel 面板中的 [Cron jobs](http://zh.wikipedia.org/zh-cn/Cron) 备份网站 (DirectAdmin 面板呢? 我无视……).
 
-[![Cron jobs](//img.beamnote.com/2010/cpanel-automatic-backup-chapter-1.png)](//img.beamnote.com/2010/cpanel-automatic-backup-chapter-1.png)<!-- more -->
+[![Cron jobs](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/cpanel-automatic-backup-chapter-1.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/cpanel-automatic-backup-chapter-1.png)<!-- more -->
 
 搜索到一篇[《cPanel自动备份教程之完全备份篇》](http://www.ifred.cn/cp-full-backup/), 利用 Cron jobs 定期执行给定的 php 文件进行备份, 实际上这个 php 文件起到了自动填写表单的作用, 与我们在后台点击「下载或生成全备份」操作是一样的, 但此文中给出的代码需要填写双份用户名与密码, 我看到密码明文存储到服务器中觉得就不踏实 (尽管 php 文件放在根目录下, 通过域名是无法访问的). 详读了代码, 发现这段程序将「备份目的地」选项指定到了远程 FTP 服务器, 难怪要求连 FTP 帐号密码都要输入了
 
@@ -87,7 +87,7 @@ echo $pass;
 
 进入 Cron jobs, 设定备份间隔的时间, 在 Command 中填入 `/usr/bin/php /home/username/cp_full_backup.php` (将 username 换成登录您的用户名), 最后单击 Add New Cron Job.
 
-[![Cron jobs](//img.beamnote.com/2010/2010-08-02_14-48-23.png)](//img.beamnote.com/2010/2010-08-02_14-48-23.png)
+[![Cron jobs](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-08-02_14-48-23.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-08-02_14-48-23.png)
 
 图中为一天备份两次, 实际不需要这么高频率. 需要注意的是, 备份时间为主机指定的时间, 所以一些在美国的主机晚间 12 点是中国的午间时刻.
 

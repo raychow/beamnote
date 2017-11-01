@@ -13,7 +13,7 @@ date: 2010-08-04 13:32:58
 
 在 cPanel 后台有一个地址可以直接获取某个数据库的备份, 地址是 `/getsqlbackup/database.sql.gz`, 原以为把这个文件发送到邮箱很简单, 试着直接用 php 实现, 结果不仅要先下载这个文件, 还得用很长的代码把文件大卸八块寄出去, 还是得放弃 php 直接使用脚本.
 
-[![Cron jobs](//img.beamnote.com/2010/cpanel-automatic-backup-chapter-2.png)](//img.beamnote.com/2010/cpanel-automatic-backup-chapter-2.png)<!-- more -->
+[![Cron jobs](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/cpanel-automatic-backup-chapter-2.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/cpanel-automatic-backup-chapter-2.png)<!-- more -->
 
 Linux 下的 Bash 我没用过, 四处搜寻了很多实现自动备份的代码, 碰巧上篇中[流年](http://liunian.info/)同学也提到了一种[方案](http://vastars.info/application/database-backup.html), 我结合刚刚的数据库备份的方法修改了一下, 伪原创的内容就诞生了.
 

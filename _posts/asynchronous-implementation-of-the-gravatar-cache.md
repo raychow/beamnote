@@ -11,7 +11,7 @@ date: 2010-08-23 20:14:50
 
 话说鄙人超级喜欢跟风, 谁写出一部技巧集, 我就能山寨再加以修改写出第二部. 把 Gravatar 头像缓存到本地服务器是很多博客会做的事情, 那是因为国内糟糕的网路环境访问 Gravatar 网站特别慢, 某些地区甚至与 Gravatar 绝缘.
 
-[![异步执行的 Gravatar 缓存](//img.beamnote.com/2010/asynchronous-implementation-of-the-gravatar-cache.png)](//img.beamnote.com/2010/asynchronous-implementation-of-the-gravatar-cache.png)<!-- more -->
+[![异步执行的 Gravatar 缓存](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/asynchronous-implementation-of-the-gravatar-cache.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/asynchronous-implementation-of-the-gravatar-cache.png)<!-- more -->
 
 不少人用的是 Willin Kan 的[缓存 Gravatar 头像](http://kan.willin.org/?p=1320)之方法, 我昨天在本地调试主题的时候加上了这段代码, 但发现了一个比较严重的问题: 评论列表要等很长的时间才能显示, 甚至直接 30 秒超时. 原因是原代码中这样一句 (第 13 行) :
 

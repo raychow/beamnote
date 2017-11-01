@@ -11,7 +11,7 @@ date: 2014-09-25 16:58:28
 
 在上周参加的一场面试中, 面试官和我聊到了智能指针的问题, 问我常用哪些智能指针, 我说出了 `shared_ptr`、`unique_ptr`, 脑子一抽风把 `scoped_ptr` 也说出来了, 但是把 `weak_ptr` 和 `intrusive_ptr` 忘在了脑后…
 
-[![](//img.beamnote.com/2014/thread.jpg)](//img.beamnote.com/2014/thread.jpg)<!-- more -->
+[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/thread.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/thread.jpg)<!-- more -->
 
 他问我了一个问题, 对于 `shared_ptr` 的操作是否为线程安全的, 当时庆幸这个问题之前有做过了解, 就按照某个博客的说法来回答: 尽管使用计数提供了原子性修改操作, 但 `shared_ptr` 的赋值操作由复制对象指针和修改使用计数两个操作复合而成, 因此仍不是线程安全的, 具体理由如下.
 
@@ -27,7 +27,7 @@ shared_ptr<Object> spObject3;
 
 在某时刻, spObject1 与 spObject2 的状态是这样的:
 
-[![](//img.beamnote.com/2014/shared_ptr_1.png)](//img.beamnote.com/2014/shared_ptr_1.png)
+[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/shared_ptr_1.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/shared_ptr_1.png)
 
 两个线程同时进行了 `shared_ptr` 的赋值操作:
 
@@ -41,15 +41,15 @@ spObject2 = spObject3;
 
 观察 `spObject1` 与 `spObject2` 的操作, 首先 `thread1` 执行, `spObject1` 的对象指针指向了 `spObject2` 指向的位置:
 
-[![](//img.beamnote.com/2014/shared_ptr_2.png)](//img.beamnote.com/2014/shared_ptr_2.png)
+[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/shared_ptr_2.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/shared_ptr_2.png)
 
 接着 `thread2` 执行, `spObject2` 的指针指向了 `spObject3` 指向的的位置, 并且修改使用计数, 导致 `object2` 与相应的使用计数被销毁, `spObject1` 指向了一个被销毁的对象:
 
-[![](//img.beamnote.com/2014/shared_ptr_3.png)](//img.beamnote.com/2014/shared_ptr_3.png)
+[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/shared_ptr_3.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/shared_ptr_3.png)
 
 `thread1` 执行时, `spObject1` 修改使用计数, 错误的指向了原本 `spObject3` 的使用计数.
 
-[![](//img.beamnote.com/2014/shared_ptr_4.png)](//img.beamnote.com/2014/shared_ptr_4.png)
+[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/shared_ptr_4.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/shared_ptr_4.png)
 
 据此原博得出结论, 多线程无保护读写 `shared_ptr` 是不安全的, 必须加锁. 当我把这个过程呈现给面试官的时候, 他表示了疑惑: 既然 `shared_ptr` 的读写不是线程安全的, 那么使用计数操作的原子性意义何在? 我当时就囧了, 但仍然坚持原来的主张, 于是面试官便让我回去查查.
 
@@ -128,7 +128,7 @@ spObject2 = spObject3;
 
 此程序在 `Debug` 模式下运行不久就会出现错误, 因为尝试越界访问 (可能是写入一个已经销毁的堆上对象).
 
-[![](//img.beamnote.com/2014/heap_corruption.png)](//img.beamnote.com/2014/heap_corruption.png)
+[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/heap_corruption.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/heap_corruption.png)
 
 令人疑惑的是, [cppreference.com](http://en.cppreference.com/w/cpp/memory/shared_ptr) 指出, 对不同的 `shared_ptr` 实例操作时是不需要额外同步的, 即使那些实例共享了同一个对象. 在上面的实验中, 两个线程只进行以下操作:
 

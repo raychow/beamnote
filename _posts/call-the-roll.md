@@ -10,7 +10,7 @@ date: 2010-07-11 15:05:58
 
 今天有两件事要说, 我被点名了, 然后就是我被点名了, 概括起来就是被点了两次. 本来看着别的 Bloggers 玩起了点名游戏, 好奇为什么点名又兴起, 结果昨天被边角一尘点到, 今天又被龙崽点到, 问题都是一样滴, 那就一并写下了.
 
-[![点名](//img.beamnote.com/2010/call-the-roll.jpg)](//img.beamnote.com/2010/call-the-roll.jpg)<!-- more -->
+[![点名](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/call-the-roll.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/call-the-roll.jpg)<!-- more -->
 
 活动规则:
 

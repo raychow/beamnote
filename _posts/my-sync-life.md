@@ -13,7 +13,7 @@ date: 2010-06-11 14:24:54
 
 平时有很多东西需要记录了, 例如日历、联系人, 我们已经有了手机, 做这些工作很方便. 但如果手机不慎丢失或者打算换新手机, 记录的资料就有可能丢失, 因为这些内容只存放在手机记忆体中.
 
-[![同步](//img.beamnote.com/2010/my-sync-life.png)](//img.beamnote.com/2010/my-sync-life.png)<!-- more -->
+[![同步](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/my-sync-life.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/my-sync-life.png)<!-- more -->
 
 如果将这些内容存放在网路并定期同步, 不仅解决了资料可能丢失的问题, 也能够通过网路这个平台同步到所有支持的设备上.
 

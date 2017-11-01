@@ -11,7 +11,7 @@ date: 2010-04-07 18:07:28
 
 这是一个利用 Windows 7 超级任务栏的倒计时小程序, 目前处于初级 Preview 阶段, 功能也很简单, 设定倒计时方式之后开始运作.
 
-[![Windows 7 任务栏倒计时](//img.beamnote.com/2010/windows-7-taskbar-countdown.png)](//img.beamnote.com/2010/windows-7-taskbar-countdown.png)<!-- more -->
+[![Windows 7 任务栏倒计时](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/windows-7-taskbar-countdown.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/windows-7-taskbar-countdown.png)<!-- more -->
 
 请按此下载: [Dropbox](https://dl.dropbox.com/u/5793811/Win7TaskbarTools.zip)
 

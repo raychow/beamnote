@@ -11,7 +11,7 @@ date: 2010-04-29 13:39:09
 
 Ubuntu 10.04 正式版于今天发布, 然而在官网还没有公布下载的时候, 已经有爱好者根据以往 Ubuntu 的分发地址和 MD5SUM 推测出 10.04 版的下载地址.
 
-[![Ubuntu 10.04](//img.beamnote.com/2010/ubuntu-10-04.png)](//img.beamnote.com/2010/ubuntu-10-04.png)<!-- more -->
+[![Ubuntu 10.04](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/ubuntu-10-04.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/ubuntu-10-04.png)<!-- more -->
 
 Canonical 的创始人, 产品设计副总裁 Mark Shuttleworth 指出 Ubuntu 的基本设计理念是使其变得更「轻巧」, 它包含了两层含义, 一是分发容易, 二是在服务器和桌面上部署快速.
 

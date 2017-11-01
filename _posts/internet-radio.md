@@ -14,7 +14,7 @@ date: 2010-02-28 16:10:27
 
 还没开学, 只能继续在电脑面前打发时间, 大家都有在用电脑时听音乐的习惯吧, 不过下载音乐也是一种麻烦事 (尤其像我这种对每一首音乐都要设置 ID3 信息和专辑封面的偏执狂), 最省事当然就是听网络电台啦, 所以今天专门向您推介几款网络收音机.
 
-[![几款网络电台推介](//img.beamnote.com/2010/internet-radio.jpg)](//img.beamnote.com/2010/internet-radio.jpg)<!-- more -->
+[![几款网络电台推介](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/internet-radio.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/internet-radio.jpg)<!-- more -->
 
 ## [uuRadio](http://uuradio.jijigugu.com/index.html)
 

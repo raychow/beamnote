@@ -10,7 +10,7 @@ categories:
 date: 2010-05-25 20:32:06
 ---
 
-[![SSL Certificates Pro for Chinese](//img.beamnote.com/2010/goo-gle-ssl-greasemonkey.jpg)](//img.beamnote.com/2010/goo-gle-ssl-greasemonkey.jpg)<!-- more -->
+[![SSL Certificates Pro for Chinese](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/goo-gle-ssl-greasemonkey.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/goo-gle-ssl-greasemonkey.jpg)<!-- more -->
 
 这个脚本已经停止更新, 您可以通过修改 hosts 文件将 Google 解析到 Google.cn 的 IP, 请参考 SmartHosts 项目.
 

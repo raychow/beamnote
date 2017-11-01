@@ -11,7 +11,7 @@ date: 2012-03-24 22:51:58
 
 上回说到, 我们国家的媒体总是热衷于造神运动, 每一两个月都会来一发这样的事件. 为了搏出位的人们辛辛苦苦为看客们打造出一幕幕励志大戏, 咱总是一棒子打过去反而显得太愤世了不是? 这篇文章写续篇, 不打算揭发那些无中生有的假新闻了, 其动机是今天在阅读器上看的某文, 算是一些不同的感想吧.
 
-[![](//img.beamnote.com/2012/apotheosis2.jpg)](//img.beamnote.com/2012/apotheosis2.jpg)<!-- more -->
+[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/apotheosis2.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/apotheosis2.jpg)<!-- more -->
 
 ## 13 岁编程少年
 

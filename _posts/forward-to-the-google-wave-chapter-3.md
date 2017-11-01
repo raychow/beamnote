@@ -14,7 +14,7 @@ date: 2010-09-06 00:29:36
 
 不过各位放心, 这是最后一季了, 下次再弄点新东西. 主题敲敲打打到今天, 也积累了不少经验, 希望能有些拿得出手的 (话说, 现在的样子还是蛮有爱的吧\! 希望一天一变的外观没雷到您. 下面是这次用的背景图的原版……).
 
-[![潮流背景](//img.beamnote.com/2010/forward-to-the-google-wave-chapter-3.jpg)](http://pic.onebizhi.com/bizhi/2008122817584060977801.jpg)<!-- more -->
+[![潮流背景](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/forward-to-the-google-wave-chapter-3.jpg)](http://pic.onebizhi.com/bizhi/2008122817584060977801.jpg)<!-- more -->
 
 可记忆伸缩式边栏其实与 Google Wave 无关, 但这是我模仿 Google Wave 时辛苦研究出来的花样, 于是并在一类写了. 平常见到的小工具动态效果多是边栏整体显示隐藏, 本文探讨的是通过 jQuery 对每个小工具的显示隐藏效果, 在这之前您可以先在本文右方动手试试, **带有标题栏的小工具可以单击标题隐藏并通过 Cookies 记忆状态**.
 

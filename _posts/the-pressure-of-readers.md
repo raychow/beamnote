@@ -10,7 +10,7 @@ date: 2010-08-18 22:47:12
 
 各位网友, 每天打开电脑后, 你必做的事情是什么? 是打开 QQ、查收邮件和使用阅读器阅读订阅内容吗? 我就是这样. 开着 QQ 意味着我可能想和其他人做一点交流, 查收邮件表示我期待博客有新的回应, 而使用阅读器是因为, 我想借助它与世界同步, 还能顺便与博友进行互访.
 
-[![那些阅读器给我们的压力](//img.beamnote.com/2010/the-pressure-of-readers.png)](//img.beamnote.com/2010/the-pressure-of-readers.png)<!-- more -->
+[![那些阅读器给我们的压力](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/the-pressure-of-readers.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/the-pressure-of-readers.png)<!-- more -->
 
 那么, 您的阅读器订阅了多少供稿? 50+, 100+, 还是 200+? 在写这篇文章的时候, 我有 173 个订阅, 聪明的 Google 帮我算出, 最近 30 天我阅读了 5,612 个条目 (最近 6 天由于一些原因只阅读了很少的内容), 点击了 1,323 个条目, 共享了 325 个条目, 也就是说, 平均每天阅读约 200 个条目, 点击约 44 个条目, 为关注我的使用者共享 10 个条目.
 

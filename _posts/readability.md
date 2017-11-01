@@ -20,7 +20,7 @@ date: 2010-06-22 17:46:50
 
 Safari 浏览器升级到第五版后, 加入了「阅读器」的功能, 可让您在一个已经过优化、可方便阅读的窗口中阅读新闻故事及其他文章. 由多个网页连载, 且被广告、菜单栏以及其他项目分开的文章会被「阅读器」缝合在一起.
 
-[![Safari 阅读器](//img.beamnote.com/2010/2010-06-22_16-37-11.png)](//img.beamnote.com/2010/2010-06-22_16-37-11.png)<!-- more -->
+[![Safari 阅读器](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_16-37-11.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_16-37-11.png)<!-- more -->
 
 「阅读器」里的文字被重新组织, 易读明了.
 
@@ -42,20 +42,20 @@ Firefox 附加组件: [https://addons.mozilla.org/zh-CN/firefox/addon/46442/](ht
 
 各浏览器的效果示例:
 
-[![Chrome with Readability](//img.beamnote.com/2010/2010-06-22_17-24-45.png)](//img.beamnote.com/2010/2010-06-22_17-24-45.png)
+[![Chrome with Readability](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_17-24-45.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_17-24-45.png)
 
 Chrome
 
-[![Firefox with Readability](//img.beamnote.com/2010/2010-06-22_17-19-19.png)](//img.beamnote.com/2010/2010-06-22_17-19-19.png)
+[![Firefox with Readability](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_17-19-19.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_17-19-19.png)
 
 Firefox
 
-[![Opera with Readability](//img.beamnote.com/2010/2010-06-22_17-23-23.png)](//img.beamnote.com/2010/2010-06-22_17-23-23.png)
+[![Opera with Readability](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_17-23-23.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_17-23-23.png)
 
 Opera (字体丑不是我的错……)
 
 另外, 据说 Safari 的阅读器功能是借鉴 Readability 的. 有借鉴就有提高, 如果有分页, Safari 的阅读器可以预读所有页面:
 
-[![Safari 阅读器](//img.beamnote.com/2010/2010-06-22_17-42-18.png)](//img.beamnote.com/2010/2010-06-22_17-42-18.png)
+[![Safari 阅读器](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_17-42-18.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-06-22_17-42-18.png)
 
 P.s. 明天去澳门了, 呵呵

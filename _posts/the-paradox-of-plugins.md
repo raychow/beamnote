@@ -14,7 +14,7 @@ date: 2010-10-12 00:31:09
 
 自从有了后台, 发新闻、删贴删评论的事情大家都会做了. 不久之后, 网站需要添加新功能, 例如敏感词系统, 这样审查员们的工作量又能减少. 由于很多网站都觉得敏感词的确是个好东西, 纷纷拜托程序员为自己的网站程序添加敏感词功能, 程序员被烦的多了, 心想为什么不开发一种机制让这些后来可能添加的功能像插座那样即插即用呢? 于是插件诞生了.
 
-[![WordPress: 插件与非插件的悖论](//img.beamnote.com/2010/the-paradox-of-plugins.png)](//img.beamnote.com/2010/the-paradox-of-plugins.png)<!-- more -->
+[![WordPress: 插件与非插件的悖论](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/the-paradox-of-plugins.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/the-paradox-of-plugins.png)<!-- more -->
 
 现在, 如果工信部发出通知, 要求所有留言者必须填写网民证号才能留言, 程序员只需为每种程序开发一套用于验证的插件就可以让千千万万采用该程序的网站满足工信部的规定, 世界和谐了.
 

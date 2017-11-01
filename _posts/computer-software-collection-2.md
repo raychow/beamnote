@@ -12,7 +12,7 @@ date: 2012-11-18 00:06:58
 
 上一话是开端, 肯定有一些人觉得介绍的软件不是那么的新奇异缺; 嘛, 毕竟这里标题的是「与时俱进」, 第一强调用新的更好用的软件代替掉旧软件, 第二强调用树立使用免费软件或正版正版的观念, 最后则是这里的软件都是我试用之后觉得不错的诚意推荐. 就是这样, 「与时俱进」的电脑软件大搜集第二话在时隔一月之后再次开篇 (～好慢\! ～).
 
-[![与时俱进的电脑软件大搜集 (二)](//img.beamnote.com/2012/computer-software-collection-2.jpg)](//img.beamnote.com/2012/computer-software-collection-2.jpg)<!-- more -->
+[![与时俱进的电脑软件大搜集 (二)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/computer-software-collection-2.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/computer-software-collection-2.jpg)<!-- more -->
 
 今次要推荐的软件是适合于普通电脑的两款免费安全软件 (言下之意, 以不折腾但又勘用为主), 德国 Avira Operations GmbH &amp; Co. KG 开发的杀毒软件 Avira Free Antivirus, 与美国 PWI, Inc 开发的防火墙 Privatefirewall.
 
@@ -30,7 +30,7 @@ Avira 在中国已经是比较知名的杀毒软件了, 中国网民亲切的称
 
 对于第一种方案, 由上所述 Avira 最受欢迎的其实是免费版, 不仅因为免费, 还因为这个版本提供了一个单纯的防病毒软件——[病毒查杀能力高](http://www.virusbtn.com/vb100/archive/test?recent=1)、没有防火墙、没有太多的主动防御、较低的硬件要求, 很适合与其它安全软件搭配使用.
 
-[![Avira](//img.beamnote.com/2012/avira_free.png)](//img.beamnote.com/2012/avira_free.png)
+[![Avira](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/avira_free.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/avira_free.png)
 
 卡饭论坛上流行的搭配组合是「红豆」组合, 即将 Comodo 防火墙与 Avira 免费版进行搭配. Comodo 亦是一款来自美国的安全产品, 其防火墙也带有 HIPS, 只是需要花费一些精力学习; 如果想要学习 Comodo, 请按[此处](http://bbs.kafan.cn/thread-1265632-1-1.html).
 
@@ -68,17 +68,17 @@ Windows Registry Editor Version 5.00
 
 Privatefirewall 体积很小, 占用资源也很低, 界面更加朴素, 属于大部分时间都没有存在感的软件; 但倘若有什么可疑进程有动作, 它内建的 HIPS 就会发出警告.
 
-[![Privatefirewall](//img.beamnote.com/2012/privatefirewall_1.png)](//img.beamnote.com/2012/privatefirewall_1.png)
+[![Privatefirewall](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/privatefirewall_1.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/privatefirewall_1.png)
 
 中上方的三个图标为情景模式选择, 可以根据家庭 / 工作 / 公用网路选择不同的防护等级, Firewall 红绿灯可以关闭 / 打开防火墙, 或者完全阻止网路流量.
 
 可以针对不同进程设定是否允许特定 IP 段 / 端口的入站 / 出站 UDP 或 TCP 访问:
 
-[![Add / Edit Rule](//img.beamnote.com/2012/privatefirewall_8.png)](//img.beamnote.com/2012/privatefirewall_8.png)
+[![Add / Edit Rule](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/privatefirewall_8.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/privatefirewall_8.png)
 
 Privatefirewall 还拥有一个轻量级 HIPS, 默认情况下会放行受信任的发布商所发行的程序, 而提醒未知程序的关键动作:
 
-[![Process Moniter](//img.beamnote.com/2012/privatefirewall_10.png)](//img.beamnote.com/2012/privatefirewall_10.png)
+[![Process Moniter](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/privatefirewall_10.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/privatefirewall_10.png)
 
 如果信任此程序, 则同时勾选「Remember this setting」和「Apply to all alerts」并点击「Allow」, 否则根据情况暂时放行或阻止此动作, 甚至终止程序.
 
@@ -92,15 +92,15 @@ Privatefirewall 拥有定期学习的功能, 会自动放行你常用的程序, 
 
 前面说过, Avira 互联网安全版除了病毒防护, 对个人用户意义较大的功能还有 Web Protection 与防火墙, 这些都不用特别设定就能使用.
 
-[![Avira](//img.beamnote.com/2012/avira_is_1.png)](//img.beamnote.com/2012/avira_is_1.png)
+[![Avira](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/avira_is_1.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/avira_is_1.png)
 
 Avira 不提供控制其它程序行为的 HIPS, 防火墙是纯粹的网路防火墙. 有新程序试图访问网路时会发出提示.
 
-[![Avira](//img.beamnote.com/2012/avira_is_2.png)](//img.beamnote.com/2012/avira_is_2.png)
+[![Avira](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/avira_is_2.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/avira_is_2.png)
 
 要详细设定防火墙的话也可以, 只是有些麻烦, 因为 Avira 提供的规则设定不太友好, 要在一段话里通过点击关键词来改变含义 (简直是奇葩了喂！) \! 点多几下头脑就会晕掉…
 
-[![Avira](//img.beamnote.com/2012/avira_is_3.png)](//img.beamnote.com/2012/avira_is_3.png)
+[![Avira](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/avira_is_3.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/avira_is_3.png)
 
 <del datetime="2015-03-01T18:26:53+00:00">Avira 互联网安全版是收费软件, 官方购买要价 RMB 292.00 / 年, RMB 585.00 / 三年, 但经官方授权的淘宝店却要便宜很多. </del>
 
