@@ -14,7 +14,7 @@ date: 2011-02-01 13:37:30
 > 新年快到了, 大家都在写年终篇, 我也在此预祝各位春节快乐, 大展宏兔.
 既然是新年, 那就再说说 WordPress 时间的事儿. 这两天写插件, WordPress 的时间观念给我开了一个小玩笑, 搜了一下好像没啥人说这事儿的, 先记录下来.
 
-[![2011 年春节](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/2011-spring.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/2011-spring.jpg)<!-- more -->
+[![2011 年春节](//img.beamnote.com/2011/2011-spring.jpg)](//img.beamnote.com/2011/2011-spring.jpg)<!-- more -->
 
 ## 一、WordPress 「破坏」了PHP 的时区设置
 

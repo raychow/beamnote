@@ -12,7 +12,7 @@ date: 2011-01-23 05:34:09
 
 最近怪事特别多, 关于我的网站, 总是遭遇一些摸不清头脑的事情. 唉, 我是招你惹你了?
 
-[![龙猫和麦当劳](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/totoro-and-mcdonald.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/totoro-and-mcdonald.jpg)<!-- more -->
+[![龙猫和麦当劳](//img.beamnote.com/2011/totoro-and-mcdonald.jpg)](//img.beamnote.com/2011/totoro-and-mcdonald.jpg)<!-- more -->
 
 ## 一、奇怪的 Feed 访问
 
@@ -22,7 +22,7 @@ date: 2011-01-23 05:34:09
 
 进入数据库筛选了一下详细的订阅情况, 原来是 `60.28.113.193` 与 `60.28.113.196` 这两个 IP 大约二十分钟轮流访问我的订阅地址. 观察了几天也没有看出什么门道, 有可能是采集站, 偏偏这两个 IP 又不能访问, 果断封锁.
 
-[![奇怪的 Feed](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/strange-feed.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/strange-feed.png)
+[![奇怪的 Feed](//img.beamnote.com/2011/strange-feed.png)](//img.beamnote.com/2011/strange-feed.png)
 
 封锁 IP 对于 Apache User 来说应该是轻车熟路了, 在 `.htaccess` 里加上这两句轻松搞定.
 

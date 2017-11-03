@@ -14,7 +14,7 @@ date: 2010-04-02 23:24:22
 
 Dropbox 是 Dropbox 公司运行的线上存储服务, 通过云计算实现互联网上的文件同步, 用户可以存储并共享文件. Dropbox 提供免费和收费服务, 在不同操作系统下有客户端软件, 并且有网页客户端.
 
-[![Dropbox](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/dropbox.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/dropbox.png)<!-- more -->
+[![Dropbox](//img.beamnote.com/2010/dropbox.png)](//img.beamnote.com/2010/dropbox.png)<!-- more -->
 
 用户可以通过 Dropbox 客户端把任意文件放入指定文件夹, 程序会同步文件到云端以及该用户安装有 Dropbox 客户端的其它计算机中. Dropbox 文件夹中的文件随后就可以与其他 Dropbox 用户分享, 或通过网页来获取. 用户也可以通过网页浏览器来手工上传文件.
 

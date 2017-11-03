@@ -11,7 +11,7 @@ date: 2010-04-25 21:57:02
 
 西元 2010 年 4 月 6 日, 闻名世界的 NewScientist (新科学人) 杂志发表了一篇炮轰搜索引擎的文章[《Search engines' dirty secret》](http://www.newscientist.com/article/mg20627546.700-search-engines-dirty-secret.html) (《搜索引擎肮脏的秘密》), 虽然此文直白的道出了使用搜索服务浪费能源的观点, 但西方媒体与民众对此并不感冒. 搜索此文只得到了大约 10 个相关结果, 在我国能够打开的网站中, 评论最多的是 NewScientist 官网, 也仅 18 条留言.
 
-[![进口新闻好](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/search-engines-dirty-secret-is-a-joke.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/search-engines-dirty-secret-is-a-joke.jpg)<!-- more -->
+[![进口新闻好](//img.beamnote.com/2010/search-engines-dirty-secret-is-a-joke.jpg)](//img.beamnote.com/2010/search-engines-dirty-secret-is-a-joke.jpg)<!-- more -->
 
 西元 2010 年 4 月 23 日, 距离这则报道 17 天, 此文中文版出现, 登载在《羊城晚报》, 名为[《使用搜索引擎的代价》](http://www.ycwb.com/epaper/ycwb/html/2010-04/23/content_807667.htm).
 

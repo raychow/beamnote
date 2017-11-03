@@ -10,7 +10,7 @@ date: 2010-06-01 18:33:43
 
 Hi, 小盆友们大家好, 还记得我是谁么? 对了, 我就是要和谐要有爱的山寨帝 Ray 君. 在这么和谐的日子里, 春风洒满大地, 举国一片欢腾, 最让我感动的是人机工程学的老师发给每人一根棒棒糖 (非怪蜀黍, Office Lady 是也), 唔知各位有否收到礼物呢?
 
-[![麦兜](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/61-childrens-day.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/61-childrens-day.jpg)<!-- more -->
+[![麦兜](//img.beamnote.com/2010/61-childrens-day.jpg)](//img.beamnote.com/2010/61-childrens-day.jpg)<!-- more -->
 
 六一节给大家推荐两个欢乐的. 子曰: 快乐就是要建立在别人的痛苦之上, **于是 **[**糗事百科**](http://www.qiushibaike.com/)** 华丽丽的登场了, 每天必看喔\!**
 

@@ -13,7 +13,7 @@ Google 在 5 月 15 日开放了 Google Voice 学生申请, 前提是您拥有�
 
 Google 发言人表示, 虽然 Google Voice 服务主要是针对在校大学生, 但是任何人只要拥有以 .edu 为后缀的邮箱, 都可以申请到 Google Voice 服务.
 
-[![Google Voice](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/Google-Voice.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/Google-Voice.jpg)<!-- more -->
+[![Google Voice](//img.beamnote.com/2010/Google-Voice.jpg)](//img.beamnote.com/2010/Google-Voice.jpg)<!-- more -->
 
 Google Voice 是由 Google 推出的一种电话服务, 能够将个人所用的众多电话号码集中成为一个号码. 基本上, Google Voice 是以 Google 提供给你的一个电话号码整合生活中所有可能接触到的电话, 比如家里、办公室、手机等. 当有人打电话给你, 他们不必考虑该打家里的号码、办公室的号码, 还是手机. 拥有 Google Voice 的你, 可以决定哪个电话该响. 另外, Google Voice 的长途电话非常便宜.
 

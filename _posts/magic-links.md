@@ -14,29 +14,29 @@ date: 2010-07-07 21:08:43
 
 Magic Links (魔力链接) 提供了多种展示友情链接的方法, 帮助您与朋友保持联系.
 
-[![Magic Links](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/magic-links.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/magic-links.png)<!-- more -->
+[![Magic Links](//img.beamnote.com/2010/magic-links.png)](//img.beamnote.com/2010/magic-links.png)<!-- more -->
 
 Magic Links 可以在文章中任意位置插入, 或在小工具中展示. 设定希望展示的链接分类目录、统计范围, 让链接以评论数量排序、大小或色彩区分显示. Magic Links 自动定时更新, 防止占用过多服务器资源.
 
 要在文章页面中显示友情链接, 请插入短代码 `[MAGIC-LINKS] (区分大小写) `.
 
-[![插入 Magic Links 短代码](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-07_20-32-03.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-07_20-32-03.png)
+[![插入 Magic Links 短代码](//img.beamnote.com/2010/2010-07-07_20-32-03.png)](//img.beamnote.com/2010/2010-07-07_20-32-03.png)
 
 在小工具中显示友情链接有两种方法, 一是使用「文本」小工具插入短代码 `[MAGIC-LINKS], 二是使用「Magic Links」小工具. `
 
 文章页面效果示意图:
 
-[![Magic Links 文章页面效果示意图](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-07_20-08-31.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-07_20-08-31.png)
+[![Magic Links 文章页面效果示意图](//img.beamnote.com/2010/2010-07-07_20-08-31.png)](//img.beamnote.com/2010/2010-07-07_20-08-31.png)
 
 小工具效果示意图:
 
-[![Magic Links 小工具效果示意图](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-07_20-05-42.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-07_20-05-42.png)
+[![Magic Links 小工具效果示意图](//img.beamnote.com/2010/2010-07-07_20-05-42.png)](//img.beamnote.com/2010/2010-07-07_20-05-42.png)
 
  (以评论数降序排列, 实际效果因设置而异)
 
 Magic Links 设置页面:
 
-[![Magic Links 设置页面](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-07_20-21-04.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-07-07_20-21-04.png)
+[![Magic Links 设置页面](//img.beamnote.com/2010/2010-07-07_20-21-04.png)](//img.beamnote.com/2010/2010-07-07_20-21-04.png)
 
 说明一下缓存的含义: 您看到的 Magic Links 不是实时更新的, 因此有新评论时不会立刻反映到列表中. 如果需要立即更新, 单击「保存更改」与「更新缓存」按钮都可以, 两者的区别是, 「更新缓存」不会保存在设置页面的修改.
 

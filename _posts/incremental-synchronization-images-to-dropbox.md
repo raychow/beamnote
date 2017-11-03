@@ -13,7 +13,7 @@ date: 2014-02-12 09:30:52
 
 换了 VPS 之后我浅浅的探索了一下, 其实与虚拟主机最大的不同也就是多出那些给电脑装机一般的重复性基础工作, 鉴于我入门级的使用水平, 能自由发挥的余地相当的少. 搭 VPS 的过程参考了 [Linode 的知识库](https://library.linode.com/getting-started), 以及这位仁兄的[学习之路](http://cnzhx.net/blog/road-to-vps/), 有空的话我也整理一份自用兼供参考.
 
-[![增量同步网站图片到 Dropbox](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/sync-images-to-dropbox.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/sync-images-to-dropbox.png)<!-- more -->
+[![增量同步网站图片到 Dropbox](//img.beamnote.com/2014/sync-images-to-dropbox.png)](//img.beamnote.com/2014/sync-images-to-dropbox.png)<!-- more -->
 
 网站呢最重要的就是数据了, 很多 VPS 不像虚拟主机, 每天都有备份的, 出现问题能够自助连上备份服务器寻回档案, 因此 VPS 使用者一定要做好备份工作. 备份当然不能放在本机, 否则主机坏了备份丢失岂不是白忙活; 现在云服务这么发达, 备份到云端成了不错的选择. Dropbox 作为云服务中经历多年风雨洗礼的佼佼者一直广受推崇, 得益于其 API, 我们也能将网站资料备份到 Dropbox 之中.
 

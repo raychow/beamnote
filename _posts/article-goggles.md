@@ -12,11 +12,11 @@ date: 2010-09-08 20:35:07
 
 WordPress 用户们有没有遇到过这样的情况: 写文章写到昏头脑胀, 想保存草稿却不小心点到「发布」按钮, 结果搜索引擎与阅读器迅速更新了写到一半的文章; 洋洋洒洒的大作刚写完迫不及待想给读者们欣赏欣赏, 兴冲冲的没有检查一遍就发布文章; 做事有偏执每篇都会设定标签、分类目录与摘要, 对于不小心发布的三无 (无标签无分类无摘要) 文章耿耿于怀. 如果有, 那么一定要试试今天带来的插件 Article Goggles.
 
-[![Article Goggles](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/article-goggles.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/article-goggles.png)<!-- more -->
+[![Article Goggles](//img.beamnote.com/2010/article-goggles.png)](//img.beamnote.com/2010/article-goggles.png)<!-- more -->
 
 Article Goggles 通过在添加新文章与编辑页面载入 JavaScript 的方式, 在您点击「发布」按钮时检查文章标签、分类目录、摘要是不是均已设定, 如果有遗忘的项目没写, 将会弹出这个对话框:
 
-[![某些信息还没有填写](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/some-information-has-not-yet-filled.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/some-information-has-not-yet-filled.png)
+[![某些信息还没有填写](//img.beamnote.com/2010/some-information-has-not-yet-filled.png)](//img.beamnote.com/2010/some-information-has-not-yet-filled.png)
 
 现在点击「取消」还来得及
 
@@ -24,7 +24,7 @@ Article Goggles 通过在添加新文章与编辑页面载入 JavaScript 的方�
 
 不管什么时候点击「发布」或「更新」, 都会弹出这个对话框:
 
-[![您确定发布么?](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/are-you-sure.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/are-you-sure.png)
+[![您确定发布么?](//img.beamnote.com/2010/are-you-sure.png)](//img.beamnote.com/2010/are-you-sure.png)
 
 现在点击「取消」依然来得及
 

@@ -13,7 +13,7 @@ date: 2010-05-22 21:10:47
 
 在这一篇中, 我将列出我使用的所有驱动. 由于 Y450 有多种型号、配置, Mac OS 也不是为 PC 机设计的系统, 就算测试正常的驱动, 在您的计算机上也可能不工作. 目前我使用的驱动有:
 
-[![Mac OS kext](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/mac-os-kext.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/mac-os-kext.png)<!-- more -->
+[![Mac OS kext](//img.beamnote.com/2010/mac-os-kext.png)](//img.beamnote.com/2010/mac-os-kext.png)<!-- more -->
 
 已经打包上传: [SkyDrive](http://cid-2343b4049d516106.skydrive.live.com/self.aspx/Ray%5E4s%20files/Mac%5E_OS%5E_X%5E_10%5E_6%5E_3%5E_Drivers%5E_For%5E_Y450.zip).
 
@@ -39,13 +39,13 @@ date: 2010-05-22 21:10:47
 声卡驱动;
 5. VoodooHDA.prefPane:
 声卡控制台, 安装之后可以在「系统偏好设置」里找到「VoodooHDA」一项, 调节 Microphone 的数值可以使麦克风有效, 否则麦克风一直没有声音输入. 也可以使用此控制板调节音质;
-[![VoodooHDA](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/voodoohda.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/voodoohda.png)
+[![VoodooHDA](//img.beamnote.com/2010/voodoohda.png)](//img.beamnote.com/2010/voodoohda.png)
 6. AppleACPIPS2Nub.kext、VoodooPS2Controller.kext:
 PS2 接口驱动, 用于驱动触摸板. 加入这两个文件后, 触摸板可以点击, 并开启了多点触摸功能, 在 iTunes、浏览网页时体验很好.
 以使用 Chrome 浏览网页为例, 使用两根手指在触摸板上滑过, 网页跟随手指拖动; 使用两根手指点击, 打开右键菜单. 此驱动不支持缩放;
 7. VoodooPS2.prefPane:
 触摸板控制台, 安装之后可以在「系统偏好设置」里找到「VoodooPS2」一项, 比系统自带的触摸板设置功能强. 增加了「Cicular Scrolling」 (圆环滚动), 可以通过画圆的方式不停滚动.
-[![VoodooPS2](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/voodoops2.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/voodoops2.png)
+[![VoodooPS2](//img.beamnote.com/2010/voodoops2.png)](//img.beamnote.com/2010/voodoops2.png)
 8. AppleBCM5787MEthernet.kext:
 网卡驱动, 安装此驱动稍微麻烦, 请按下列步骤进行:
 

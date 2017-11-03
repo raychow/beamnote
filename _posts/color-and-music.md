@@ -13,7 +13,7 @@ date: 2010-02-22 22:26:30
 
 ## 色彩感觉测试
 
-[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-02-22_21-37-41.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-02-22_21-37-41.jpg)<!-- more -->
+[![](//img.beamnote.com/2010/2010-02-22_21-37-41.jpg)](//img.beamnote.com/2010/2010-02-22_21-37-41.jpg)<!-- more -->
 
 这个测试让您拖动色块使它们过渡自然, 最后的得分越低越好.
 
@@ -21,7 +21,7 @@ date: 2010-02-22 22:26:30
 
 这是我的得分 :-? :
 
-[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-02-22_20-05-17.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-02-22_20-05-17.jpg)
+[![](//img.beamnote.com/2010/2010-02-22_20-05-17.jpg)](//img.beamnote.com/2010/2010-02-22_20-05-17.jpg)
 
 测试的网址是: [http://www.spectralcolor.com/game/huetest_kiosk](http://www.spectralcolor.com/game/huetest_kiosk)
 
@@ -35,7 +35,7 @@ date: 2010-02-22 22:26:30
 
 结果, 我的得分是~:
 
-[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-02-22_21-19-03.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2010-02-22_21-19-03.jpg)
+[![](//img.beamnote.com/2010/2010-02-22_21-19-03.jpg)](//img.beamnote.com/2010/2010-02-22_21-19-03.jpg)
 
 测试的网址是: [http://wiwistudio.com/musictest/](http://wiwistudio.com/musictest/)
 

@@ -26,13 +26,13 @@ date: 2010-04-19 20:46:15
 
 最近地震很频繁, 每次上线都能看到不少关于地震的新闻. 在青海玉树地震发生之后, QQ 群中出现了一条预报地震的消息:
 
-[![防震谣言](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/earthquake-message.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/earthquake-message.jpg)<!-- more -->
+[![防震谣言](//img.beamnote.com/2010/earthquake-message.jpg)](//img.beamnote.com/2010/earthquake-message.jpg)<!-- more -->
 
 > 青海玉树发生7.1级地震. 据国际组织预报今年地球将进入地球地震年, 所以在这里给朋友们推荐一种地震预报的方法: 把一块磁铁用绳子挂在高处, 下面正对地板砖或一个铁盆, 磁铁上粘一块大铁块. 地震前地球磁场发生剧烈变化, 磁铁会失去磁性. 铁块掉下来, 落在地上或盆上, 发出响声. 此法在房屋没有晃动前就会提前预警, 提前时间10分钟至几十秒. 如果掉下来了, 必发生大震. 有什么QQ群的尽量转发一下, 让更多的人知道, 也许你的传播在以后会救许多人的性命.
 
 消息放出后以一传十十传百的速度蔓延着, 不仅 QQ 群, 连手机短信、贴吧、各大讨论区都在疯狂转载, 全民被发动起来购买磁铁, 甚至有淘宝网店大打地震牌, 出售「地震预测用磁铁」.
 
-[![预测地震的磁铁](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/magnet.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/magnet.jpg)
+[![预测地震的磁铁](//img.beamnote.com/2010/magnet.jpg)](//img.beamnote.com/2010/magnet.jpg)
 
 我不喜欢这种「转给你身边的人」的说辞, 它有变相要挟的语气, 与那些诅咒贴一样让人厌恶, 因此除了一些救人消息外我直接无视. 另外, 在我无法判断消息真假的情况下, 是不会随便转发的.
 
@@ -48,7 +48,7 @@ date: 2010-04-19 20:46:15
 
 在 Web 2.0 时代, 信息传播达到了前所未有的高速, Twitter 等微博客的出现, 使得信息从产生到传遍世界的时间大大缩短. 可能刚刚发布消息, 被跟随你的名人看见并转发, 将有几千人同时收到, 其中一批人继续转发, 并传播到其它微博、QQ 群、讨论区, 并一批一批的接力下去, 只要半小时就可以传遍全国.
 
-[![Twitter Timeline](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/twitter-timeline.gif)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/twitter-timeline.gif)
+[![Twitter Timeline](//img.beamnote.com/2010/twitter-timeline.gif)](//img.beamnote.com/2010/twitter-timeline.gif)
 
 由于微博客信息是以时间线的形式展现在用户面前的, 因此倘若出现了一则谣言, 不少人会不假思索的转发; 当有了解真相的童鞋发出辟谣推时, 消息很容易随着时间线流逝, 虽然仍会有很多次转发, 但已经不可能抵消刚刚谣言产生的影响, 也就是说不能保证每个收到谣言的人都能看到辟谣推.
 
@@ -60,7 +60,7 @@ date: 2010-04-19 20:46:15
 
 尽管发布人后来声明了这是假消息并希望大家转发, 但被推友广泛转发, 造成了一定的影响. 据了解, 当地不少民众误以为真, 中午时刻聚集在外不敢回家.
 
-[![包头地震谣言](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/baotou-earthquake.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/baotou-earthquake.jpg)
+[![包头地震谣言](//img.beamnote.com/2010/baotou-earthquake.jpg)](//img.beamnote.com/2010/baotou-earthquake.jpg)
 
 其实我第一眼看见时打算转发, 但是思考后觉得消息不太可靠, 地震预报什么时候能如此精准了? 而且这条推是在 15 日上午发布的, 我在地震局官网并没有发现类似警报, 基本判定为假消息.
 

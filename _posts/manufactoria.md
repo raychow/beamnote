@@ -11,7 +11,7 @@ date: 2011-05-26 17:54:26
 
 这是一款很有意思的编程类型游戏, 游戏的目的是通过给定的几个元件完成筛选符合条件的机器人或者输出特定结果, 其实就是算法题, 没有兴趣的话估计你玩几分钟就关掉了——像素化的画面、毛骨悚然的背景音乐、Flash 类型的游戏, 对不了画面爱好者的胃口.
 
-[![Manufactoria](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/manufactoria.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/manufactoria.jpg)<!-- more -->
+[![Manufactoria](//img.beamnote.com/2011/manufactoria.jpg)](//img.beamnote.com/2011/manufactoria.jpg)<!-- more -->
 
 游戏直接放上来了, 不过如果您直接在这个页面玩的话可能有些许问题, 不能直接看别人保存的存档, 就是「Browse Levels!」这个按钮不能使用. 您可以按[这里](http://www.kongregate.com/games/PleasingFungus/manufactoria)跳转回游戏主页.
 

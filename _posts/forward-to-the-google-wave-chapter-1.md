@@ -12,13 +12,13 @@ date: 2010-08-31 01:04:17
 
 Google Wave 是 Google 又一项庞大的即将烂尾的工程, 也许是其理念太过超前, 当初的一码难求到现在 Google 宣布放弃, 我们鉴证了它的大起大落. Google Wave 也许将要倒下, 但它也许引领了未来的潮流; 今天我要借鉴的, 便是 Google Wave 的设计风.
 
-[![向 Google Wave 迈进](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/forward-to-the-google-wave.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/forward-to-the-google-wave.png)<!-- more -->
+[![向 Google Wave 迈进](//img.beamnote.com/2010/forward-to-the-google-wave.png)](//img.beamnote.com/2010/forward-to-the-google-wave.png)<!-- more -->
 
 这个主题从换域名上线到今天, 持续关注的朋友们会发现经常有很大的改变, 其实最初的样子是我自己用 PS 设计的, 但在寻找合适评论样式的时候我看中了 Google Wave. 虽然 Google 产品的风格多为极其简约, 不太适合模仿, 但 Wave 毕竟是一款创新理念的「平台」, 咱山寨一下还是不错的~
 
 首先纵览一下 Google Wave 的全貌 (按惯例点击大图).
 
-[![Google Wave](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/google-wave.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/google-wave.png)
+[![Google Wave](//img.beamnote.com/2010/google-wave.png)](//img.beamnote.com/2010/google-wave.png)
 
 这一章我们来看看右方的讨论区. Google Wave 中是可以随时发言即时刷新的, 也就是说你说完每句话别人都能立刻看见, 很像真正的会议——这功能当然是学不来的, 如前文所述, 我看中的是他的嵌套评论样式, 现在 (如果没有改变的话) 我正是模仿了它.
 
@@ -108,7 +108,7 @@ ul.children {
 
 大括号中前三行画出圆角, 后三行画出阴影, 针对 CSS3 标准与两种私有属性.
 
-[![向 Google Wace 迈进 - CSS](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/gw-css.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/gw-css.png)
+[![向 Google Wace 迈进 - CSS](//img.beamnote.com/2010/gw-css.png)](//img.beamnote.com/2010/gw-css.png)
 
 此方法:
 
@@ -238,7 +238,7 @@ function beam_comment_list($comment, $args, $depth) {
 }
 {% endcodeblock %}
 
-[![向 Google Wace 迈进 - PHP](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/gw-php.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/gw-php.png)
+[![向 Google Wace 迈进 - PHP](//img.beamnote.com/2010/gw-php.png)](//img.beamnote.com/2010/gw-php.png)
 
 此方法:
 

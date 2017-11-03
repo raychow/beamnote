@@ -26,7 +26,7 @@ date: 2010-02-12 16:20:00
 
 Ray Chow 敬上
 
-[![春字](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/spring-word.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/spring-word.jpg)
+[![春字](//img.beamnote.com/2010/spring-word.jpg)](//img.beamnote.com/2010/spring-word.jpg)
 
 附: 春节小游戏一枚<!-- more -->
 

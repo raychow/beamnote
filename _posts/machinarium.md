@@ -11,7 +11,7 @@ date: 2010-03-02 12:01:30
 
 Machinarium 是一款由捷克独立开发小组 Amanita Design 设计制作的最新作品, 于2009年10月16日发布. 此游戏使用 Flash 制作, 300 多 MB 的容量中包含了大量精美手绘的背景与人物, 展现给我们一个坚强可爱的小机器人与作恶多端的坏人斗争并最终救出博士的故事, 非常值得一玩.
 
-[![Machinarium](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/machinarium.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/machinarium.jpg)<!-- more -->
+[![Machinarium](//img.beamnote.com/2010/machinarium.jpg)](//img.beamnote.com/2010/machinarium.jpg)<!-- more -->
 
 这是一款解谜类游戏, 玩家只需通过鼠标操作人物完成各种谜题, 因此很容易上手. 游戏全篇的对话只有寥寥几句, 即使英文水平不高也不需要汉化补丁. 在你陷入某个难题时, 点击右上角的书本, 完成一个小游戏就能获得攻略, 是个很贴心的设计.
 

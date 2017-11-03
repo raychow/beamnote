@@ -11,7 +11,7 @@ date: 2011-08-06 21:58:29
 
 华人单机游戏《仙剑奇侠传》已经走过了十六个春秋, 无数仙迷因李逍遥、赵灵儿与林月如给大家那份最初的感动而支持仙剑到现在. 在今年, 《仙剑奇侠传五》在七月七号发布了. 我参加了《仙剑奇侠传五》的预购, 并在当天拿到了这套游戏.
 
-[![仙剑奇侠传五](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/pal5.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/pal5.jpg)<!-- more -->
+[![仙剑奇侠传五](//img.beamnote.com/2011/pal5.jpg)](//img.beamnote.com/2011/pal5.jpg)<!-- more -->
 
 这次仙剑五在宣传方面大打苦情牌, 给我印像最深刻的一句话是: 「十六载守候, 仙剑因你而感动」, 明摆着是打着老仙迷的主意. 得, 既然咱真的是老仙迷, 单冲着您姚仙的[号召力](http://weibo.com/1691265967/ez4cMM2fSoB)也要买了.
 
@@ -37,7 +37,7 @@ date: 2011-08-06 21:58:29
 
 于是这里有最让人无语的错误: 已经在学习御剑的蜀山弟子竟然不认得在蜀山长大的唐雨柔:
 
-[![你不是蜀山弟子? 不要打扰我.](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/pal5_1.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/pal5_1.jpg)
+[![你不是蜀山弟子? 不要打扰我.](//img.beamnote.com/2011/pal5_1.jpg)](//img.beamnote.com/2011/pal5_1.jpg)
 
 因为当初在编写对话的时候, 姜云凡还不是蜀山弟子, 于是这位弟子一辈子也没机会认识我们几位大人物了……
 

@@ -11,7 +11,7 @@ date: 2011-01-05 21:58:31
 
 WordPress 会把访客的留言通过邮件通知管理员, 结合邮件检查程序我们就能随时保持互动, 但这个邮件通知的程序存在一些不足, 稍微修改就能臻于完美.
 
-[![对 WordPress 留言邮件通知的小修改](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/modify-email-notification-of-wordpress.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/modify-email-notification-of-wordpress.jpg)<!-- more -->
+[![对 WordPress 留言邮件通知的小修改](//img.beamnote.com/2011/modify-email-notification-of-wordpress.jpg)](//img.beamnote.com/2011/modify-email-notification-of-wordpress.jpg)<!-- more -->
 
 我认为需要改进的地方有:
 

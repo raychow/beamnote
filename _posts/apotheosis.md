@@ -13,7 +13,7 @@ date: 2012-02-02 15:16:28
 
 在中国, 大约每一两个月都会有一次较大型的造神运动 (这个数据是我个人调查得出的), 造神的对象主要是青年学子, 通过不负责任的失实报道塑造其才能过人的假象. 鉴别一场造神运动并不困难, 造神运动具备以下一个或多个特点:
 
-[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/apotheosis.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/apotheosis.jpg)<!-- more -->
+[![](//img.beamnote.com/2012/apotheosis.jpg)](//img.beamnote.com/2012/apotheosis.jpg)<!-- more -->
 
 * 扣上「中国的比尔盖茨」、「中国的乔布斯」这样的帽子;
 * 提到的名词搜寻没有结果, 或者只能搜到与这条新闻报道相关的内容;

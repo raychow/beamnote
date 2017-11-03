@@ -11,7 +11,7 @@ date: 2010-09-15 10:22:23
 
 不知道现在有多少同学拥有自己的网址缩短服务的, 你们做到现在对这个服务还有坚持下去的信心么? 就在前天, 本人的 2cm.in 网址缩短服务因为被 000webhost 免费虚拟主机服务停权, 划上了它伤痕累累的句号. 由于是突然被停权的, 之前也少做备份, 所以数据库丢失, 但提供服务这么长时间, 早已被其没钱赚倒是无止境的破事要烦的「维护」吓怕了, 直接关掉了事. 现在访问, 您将看到寥寥数字和 Godaddy 友情赞助的广告.
 
-[![缩短网址? 洗洗睡吧](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/short-urls-future.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/short-urls-future.png)<!-- more -->
+[![缩短网址? 洗洗睡吧](//img.beamnote.com/2010/short-urls-future.png)](//img.beamnote.com/2010/short-urls-future.png)<!-- more -->
 
 导致我停止网址缩短服务最重要的因素, 是那些整日像苍蝇一样四处寻找短网址站来缩短非法、钓鱼网站的无耻之徒. 请看看这篇: [《这个网址招聘兼职, 请问是不是假的, 要如何识别真假呢? 》](http://zhidao.baidu.com/question/177070668.html), 标题中就出现了本网址缩短站的域名 (被我河蟹了), 最佳答案也是对这些无耻之徒的诅咒. 虽然本站与这骗子「淘金网」无多大干系, 但被大多数不明真相的网民看见, 会如何认为 2cm.in 这个网站呢?
 

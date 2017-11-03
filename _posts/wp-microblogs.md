@@ -15,7 +15,7 @@ date: 2011-02-11 19:51:43
 
 **抱歉, 由于新浪微博官方 API 修订, 此插件已失效. 详见 [//beamnote.com/2012/stop-support-of-sina-weibo/](//beamnote.com/2012/stop-support-of-sina-weibo/). **
 
-[![WP Microblogs](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/wp-microblogs.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/wp-microblogs.jpg)<!-- more -->
+[![WP Microblogs](//img.beamnote.com/2011/wp-microblogs.jpg)](//img.beamnote.com/2011/wp-microblogs.jpg)<!-- more -->
 
 ## 一、简介
 
@@ -46,15 +46,15 @@ WP Microblogs 可以在 WordPress 中显示最新微博, 目前支持新浪微�
 
 后台设置:
 
-[![WordPress 微博 后台设置](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/wp-microblogs-1.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/wp-microblogs-1.png)
+[![WordPress 微博 后台设置](//img.beamnote.com/2011/wp-microblogs-1.png)](//img.beamnote.com/2011/wp-microblogs-1.png)
 
 小工具设置:
 
-[![WordPress 微博 小工具设置](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/wp-microblogs-2.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/wp-microblogs-2.png)
+[![WordPress 微博 小工具设置](//img.beamnote.com/2011/wp-microblogs-2.png)](//img.beamnote.com/2011/wp-microblogs-2.png)
 
 小工具输出:
 
-[![WordPress 微博 小工具输出](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/wp-microblogs-3.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/wp-microblogs-3.png)
+[![WordPress 微博 小工具输出](//img.beamnote.com/2011/wp-microblogs-3.png)](//img.beamnote.com/2011/wp-microblogs-3.png)
 
 ## 二、安装与启用
 
@@ -145,7 +145,7 @@ wm_get_tweets( $args ); // 以数组形式返回最新的数条微博
     中括号及括号包围的部分是预定义的占位符, 运行时将被实际内容替换, 例子在运行时可能成为这样:
 
     {% codeblock lang:html %}
-    Ray Chow : 微博发言<div class="pic"><img src="//beamnote-img.oss-cn-shanghai.aliyuncs.com/pic.jpg" /></div><div class="rt">转 User : 被转发言<div class="rt-pic"><img src="//beamnote-img.oss-cn-shanghai.aliyuncs.com/rt-pic.jpg" /></div><span class="time">2012-12-21 00:00</span>
+    Ray Chow : 微博发言<div class="pic"><img src="//img.beamnote.com/pic.jpg" /></div><div class="rt">转 User : 被转发言<div class="rt-pic"><img src="//img.beamnote.com/rt-pic.jpg" /></div><span class="time">2012-12-21 00:00</span>
     {% endcodeblock %}
 
     详细的占位符定义请参见下一小节.
@@ -205,7 +205,7 @@ wm_get_tweets( $args ); // 以数组形式返回最新的数条微博
 
 此占位符将按照 `rt_format` 的格式替换, 可用于 `tweet_format`.
 
-[![Tweet](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/tweet-structure.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/tweet-structure.png)
+[![Tweet](//img.beamnote.com/2011/tweet-structure.png)](//img.beamnote.com/2011/tweet-structure.png)
 <!--nextpage-->
 
 ### 2\. 使用自定义样式表与 JS 脚本

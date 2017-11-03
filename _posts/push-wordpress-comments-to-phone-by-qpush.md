@@ -12,7 +12,7 @@ date: 2014-02-13 09:30:15
 
 [QPush 快推](http://qpush.me/)是一个新兴的从电脑向手机推送文字的工具, 此工具的作者是台湾人. 中国大陆软件 QQ 其实也包含推送功能, 而且能够双向推送, 推送的内容也不限文字, 无论图片、普通文件都行. 但 QPush 最大的特色是推送接口非常易用, 使用者不见得一定要用官方提供的推送工具, 只要有手机端的 Push name 和 Push code, 就能自己编写程序推送到手机了.
 
-[![妙用 QPush 向手机推送 WordPress 评论](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/push-wordpress-comments-to-phone-by-qpush.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/push-wordpress-comments-to-phone-by-qpush.png)<!-- more -->
+[![妙用 QPush 向手机推送 WordPress 评论](//img.beamnote.com/2014/push-wordpress-comments-to-phone-by-qpush.png)](//img.beamnote.com/2014/push-wordpress-comments-to-phone-by-qpush.png)<!-- more -->
 
 有关 QPush 的介绍, 可以看看電腦王阿達写的[《QPush 快推 – 把各種訊息推送到手機的最簡單方案》](http://www.kocpc.com.tw/archives/4408), 相信事无巨细的描述让你比开发者还要会用这款应用. 不过, QPush 现在还只是 iOS 限定, 不知道开发者有无 Android 版本开发计划.
 
@@ -31,15 +31,15 @@ date: 2014-02-13 09:30:15
 
 例如, 我在博客留下一则评论:
 
-[![在博客留下的评论](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qpush-1.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qpush-1.png)
+[![在博客留下的评论](//img.beamnote.com/2014/qpush-1.png)](//img.beamnote.com/2014/qpush-1.png)
 
 此评论在提交时被立刻推送到手机:
 
-[![评论被推送至手机](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qpush-2.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qpush-2.png)
+[![评论被推送至手机](//img.beamnote.com/2014/qpush-2.png)](//img.beamnote.com/2014/qpush-2.png)
 
 打开即可看到全文:
 
-[![查看推送全文](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qpush-3.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qpush-3.png)
+[![查看推送全文](//img.beamnote.com/2014/qpush-3.png)](//img.beamnote.com/2014/qpush-3.png)
 
 美中不足的是, 推送的链接不能直接点击.
 

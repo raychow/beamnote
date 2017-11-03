@@ -13,7 +13,7 @@ date: 2010-07-14 12:26:57
 
 微软校园先锋计划将于 2010 年 7 月 19 日 0 时正式启动, 届时所有中国高校学生均可以以优惠价格购买 Windows 7 、Office 2010.
 
-[![微软中国对高校生大幅优惠](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/microsoft-is-offering-concessions-to-university-students-in-china.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/microsoft-is-offering-concessions-to-university-students-in-china.jpg)<!-- more -->
+[![微软中国对高校生大幅优惠](//img.beamnote.com/2010/microsoft-is-offering-concessions-to-university-students-in-china.jpg)](//img.beamnote.com/2010/microsoft-is-offering-concessions-to-university-students-in-china.jpg)<!-- more -->
 
 凡于 2010 年 7 月 13 日 - 2010 年 7 月 18 日提交个人资料参与预购活动, 并在 2010 年 7 月 19 日 - 2010 年 7 月 25 日完成付费购买, 就有机会得到微软送出的礼品
 

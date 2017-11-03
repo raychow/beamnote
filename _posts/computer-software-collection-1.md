@@ -15,7 +15,7 @@ date: 2012-10-13 22:14:56
 
 那个时代网络不发达, 软件获取与更新基本都靠父亲定期去买盗版「装机光盘」, 选择余地也很小. 豪杰超级解霸、KV3000、RealPlayer、Winamp、ACDSee、WinZip、FoxMail、NetAnts 在那个时代都是鼎鼎大名的.
 
-[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/computer-software-collection-1.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/computer-software-collection-1.jpg)<!-- more -->
+[![](//img.beamnote.com/2012/computer-software-collection-1.jpg)](//img.beamnote.com/2012/computer-software-collection-1.jpg)<!-- more -->
 
 到我零九年上大二的时候, 有了第一台自己的笔记本. 那时正是暴风影音、360 安全卫士、瑞星杀毒软件、傲游 2 浏览器等等国产软件流行的时候 (当然现在也还算流行 :-| ), 特别是暴风与 360, 几乎能在每台电脑上寻到它们的踪影.
 
@@ -33,7 +33,7 @@ date: 2012-10-13 22:14:56
 
 今次要推荐的软件是由 Ronen Tzur 开发的沙盒软件 Sandboxie.
 
-[![Sandboxie](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/sandboxie.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/sandboxie.png)
+[![Sandboxie](//img.beamnote.com/2012/sandboxie.png)](//img.beamnote.com/2012/sandboxie.png)
 
 沙盒是一种隔离运行程序的安全机制, 常用于执行从未验证的第三方供应商、不可信的用户与网站提供的不可信的程序. 沙盒为这些程序提供了严格控制的资源, 如磁盘与内存的暂存空间. 网络访问、扫描主机或读取输入设备的行为一般都会被禁止或严格限制. 在这点来说, 沙盒属于虚拟化技术的一种.
 
@@ -71,7 +71,7 @@ date: 2012-10-13 22:14:56
 
 对于有后台进程的程序, 可以设置「驻留程序」或是「先导程序」, 驻留程序指其它进程关闭后将被终止的程序, 先导程序与驻留程序相反, 先导程序的关闭将导致整个沙盘关闭.
 
-[![先导程序](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/sandboxie-leader-programs.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/sandboxie-leader-programs.png)
+[![先导程序](//img.beamnote.com/2012/sandboxie-leader-programs.png)](//img.beamnote.com/2012/sandboxie-leader-programs.png)
 
 二是向硬盘写入文件, 在系统分区频繁写入文件可能显著减缓电脑速度.
 
@@ -89,7 +89,7 @@ date: 2012-10-13 22:14:56
 
 虽然我知道将下载 / 可移动介质的程序放在沙盒中运行比较安全, 但总有忘记这一操作的时候. 所幸 Sandboxie 提供了强制入沙的功能, 让恶意程序无机可乘.
 
-[![强制运行文件夹](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/sandboxie-forced-folders.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/sandboxie-forced-folders.png)
+[![强制运行文件夹](//img.beamnote.com/2012/sandboxie-forced-folders.png)](//img.beamnote.com/2012/sandboxie-forced-folders.png)
 强制入沙的方式中, 比较常用的是「强制运行文件夹」, 它能够强制整个文件夹的文件在指定沙盒打开. 将下载文件夹、可移动介质的分区都添加到强制运行文件夹中, 就实现了对它们的强制入沙.
 
 这个功能也需要注册才能使用.

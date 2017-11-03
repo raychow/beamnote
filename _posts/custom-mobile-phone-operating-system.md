@@ -13,7 +13,7 @@ date: 2011-03-03 21:30:33
 
 前几日入手中国移动定制手机三星 I9008, 属于非常高端的一款智能手机. 我就从这台手机说开了去.
 
-[![Ophone](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/ophone.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/ophone.jpg)<!-- more -->
+[![Ophone](//img.beamnote.com/2011/ophone.jpg)](//img.beamnote.com/2011/ophone.jpg)<!-- more -->
 
 这台手机是三星 I9000 的定制版本, 三星 I9000 采用了原生 Android 系统, 版本已可升级为 2.3; I9008 采用了 Ophone 操作系统. 所谓 Ophone, 是指采用了 OMS (开放移动系统) 智能操作系统的手机. 为了突破 TD 终端瓶颈, 以及促进手机终端与中国移动的网络及应用服务进行无缝对接, 中国移动和播思通讯自去年开始在谷歌 Android 操作系统基础上, 主导开发了 OMS 系统, 该系统直接内置了中国移动的服务菜单、音乐随身听、手机导航、号簿管家、139 邮箱、飞信、快讯和移动梦网等特色业务, 现在 Ophone 最高版本为 2.0, 采用 Android 2.1.
 

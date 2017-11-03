@@ -14,7 +14,7 @@ date: 2012-12-12 22:08:34
 
 离开安全软件的范畴, 我再推荐一些免费又好用的工具软件. 当然, 照样不是「新奇异缺」.
 
-[![与时俱进的电脑软件大搜集 (三)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/computer-software-collection-3.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/computer-software-collection-3.jpg)<!-- more -->
+[![与时俱进的电脑软件大搜集 (三)](//img.beamnote.com/2012/computer-software-collection-3.jpg)](//img.beamnote.com/2012/computer-software-collection-3.jpg)<!-- more -->
 
 ## 压缩 / 解压缩软件: 7-Zip
 
@@ -22,7 +22,7 @@ date: 2012-12-12 22:08:34
 
 现在就压缩表现对 7-zip、2345 好压与 WinRAR 做一个比较, 使用它们压缩一个 Visual C++ 源码文件夹. 用过比较新的 Visual Studio 的朋友都知道, 为了节省时间, Visual Studio 会将源码中用到的头文件与 Intellisense 等信息全部索引到数据库中, 致使一个小项目也会占上几十兆字节的空间.
 
-[![待压缩的文件夹](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/folder_to_be_compressed.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/folder_to_be_compressed.png)
+[![待压缩的文件夹](//img.beamnote.com/2012/folder_to_be_compressed.png)](//img.beamnote.com/2012/folder_to_be_compressed.png)
 
 测试文件夹大小为 360 MB, 测试结果如下:
 
@@ -56,7 +56,7 @@ date: 2012-12-12 22:08:34
 
 无奈的是, 纯文字编辑软件虽然玲琅满目, 却几乎是一些收费产品. 以前用的是 UltraEdit, 似乎对中文支持的不够好, 而且它也不是免费的; 之后我就一直寻找合适的替代, 暂时找到最好 (且免费) 的也就是这一款编辑器, Notepad++.
 
-[![Notepad++](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/notepad++.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2012/notepad++.png)
+[![Notepad++](//img.beamnote.com/2012/notepad++.png)](//img.beamnote.com/2012/notepad++.png)
 
 不说那些各家都有的像编码格式转换、代码高亮、正则搜寻等的基本能力, Notepad++ 有一些功能做的很不错:
 

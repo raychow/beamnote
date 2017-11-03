@@ -11,7 +11,7 @@ date: 2014-06-27 21:21:05
 
 最近在用 Qt 做一个开源项目, 项目中需要显示一个文件与文件夹列表, 这本来是个很简单的要求, Qt 中也提供了一个文件系统模型 `QFileSystemModel`, 此模型与 `QListView` 等控件配合就可以实现目标了.
 
-[![Qt](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qt.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qt.png)<!-- more -->
+[![Qt](//img.beamnote.com/2014/qt.png)](//img.beamnote.com/2014/qt.png)<!-- more -->
 
 但是, 我在 64 位的 Windows 8.1 下实验发现, `QFileSystemModel` 打开包含了大量文件的文件夹时很容易卡死. 譬如位于固态硬盘的系统的 System32 文件夹, 包含了将近四千个文件 (子文件夹中的文件不做计算), 使用 Qt Creator 使用 MSVC 2013 编译器创建的程序要花费近十秒钟才能恢复响应, 如果直接在 VS 2013 下编译的程序表现会更加糟糕, 花费时间达到了二十余秒. 这么久的时间显然是不可接受的.
 
@@ -71,6 +71,6 @@ private:
 {% endcodeblock %}
 `MyFileSystemModel` 在显示可执行文件时, 将使用一个未知文件类型的图标来代替, 如图所示:
 
-[![QFileSystemModel without executable file icon](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qfilesystemmodel-without-executable-file-icon.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/qfilesystemmodel-without-executable-file-icon.png)
+[![QFileSystemModel without executable file icon](//img.beamnote.com/2014/qfilesystemmodel-without-executable-file-icon.png)](//img.beamnote.com/2014/qfilesystemmodel-without-executable-file-icon.png)
 
 经过实验, Qt Creator 使用 MSVC 2013 编译的程序在两秒内就能打开 System32 文件夹, 速度尚可接受.

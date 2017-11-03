@@ -19,7 +19,7 @@ date: 2011-01-14 08:18:25
 
 WordPress 的读者墙应该是讨论到烂掉的问题了, 这里肯定不会说有关读者墙的实现 (我现在的读者墙是通过模板实现的, 更省资源), 咱们来看看时间范围的选择.
 
-[![](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/time-range.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/time-range.jpg)<!-- more -->
+[![](//img.beamnote.com/2011/time-range.jpg)](//img.beamnote.com/2011/time-range.jpg)<!-- more -->
 
 说起「一个月」的时间, 各位可能有两种反应, 一是「从上个月的本日直到今天, 大约三十天的时间」, 另一个是「从本月初到今天的时间」; 读者墙统计的时间范围也因此有两种可以选择, 相应的, 「从前 ×× 天 / 周 / 年直到今天的时间」与「从本周 / 月 / 季 / 年初到今天的时间」, 具体实现方法也不相同.
 

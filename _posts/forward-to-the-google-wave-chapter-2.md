@@ -16,7 +16,7 @@ date: 2010-09-03 15:15:46
 
 我的主题目前套用 Wave Style 的地方有左边的分类导航与右边的小工具. 继续拿上次的那张图来:
 
-[![Google Wave](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/google-wave.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/google-wave.png)
+[![Google Wave](//img.beamnote.com/2010/google-wave.png)](//img.beamnote.com/2010/google-wave.png)
 
 ## <!-- more -->一、标题栏的色彩
 

@@ -17,7 +17,7 @@ date: 2014-01-11 22:54:08
 
 对于 LAVA 的历史, 我没有清晰地了解, 网路上也没有人整理. 似乎是在 Lee 先释出了 LAVA, 后来被文曲星收编成为内建功能, 后来出彩屏版文曲星时 LAVA 还升级成为支援彩色显示的 GVM2, 但此时文曲星大势已去, GVM2 再也不能像上一代那样名声大噪了.
 
-[![文曲星](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/wenquxing.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2014/wenquxing.png)<!-- more -->
+[![文曲星](//img.beamnote.com/2014/wenquxing.png)](//img.beamnote.com/2014/wenquxing.png)<!-- more -->
 
 LAVA 为什么能火, 与 GVBASIC 和汇编相比不难得出结论. 维基百科[有曰](http://zh.wikipedia.org/wiki/%E6%96%87%E6%9B%B2%E6%98%9F_(%E7%94%B5%E5%AD%90%E8%AF%8D%E5%85%B8)), LAVA 提供全面超越 GVBASIC 的图形支持, 图形处理速度也大大超过 GVBASIC , 跨平台是它最大的优点. 与 GVBASIC 相比, LAVA 的执行速度更快, 提供了更多的图形函数, 以及跨平台支持的文本、图形缓冲区访问; 与汇编相比, 引入了 C 语言的部分特性, 开发效率大大提高, LAVA 程序在 LAVA 虚拟机中执行, 因此不用编译为机器代码 (文曲星官方文档[指出](http://www.ggv.com.cn/faq/lava/), LAVA 程序在电脑端伪编译后, 生成由一系列伪指令组成的 lav 文件), 以此实现了跨平台工作.
 

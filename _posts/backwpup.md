@@ -14,7 +14,7 @@ date: 2011-08-29 14:05:31
 
 前天将博客从洛奇亚的 VPS 中搬了出来, 新家安在老薛主机. 老薛主机给我的印象是实惠, 而且服务器配置不错. 但是老薛主机似乎没有自动备份, 我记得胡戈戈主机会每天备份一次, 用户可以自主拿到相当长一段时间之内的备份.
 
-[![BackWPup](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/backwpup.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2011/backwpup.jpg)<!-- more -->
+[![BackWPup](//img.beamnote.com/2011/backwpup.jpg)](//img.beamnote.com/2011/backwpup.jpg)<!-- more -->
 
 现在 Cloud 的概念仍在被炒作, 其实这东西在我看来不过是网盘 + 服务罢了. Dropbox 是最有名的云在线存储服务, 尽管在中国不稳定, 但在美国的服务器访问 Dropbox 可是快马加鞭. 如果使用 Dropbox 进行备份, 配合 Dropbox 客户端, 即实现了本地与云端双保险.
 

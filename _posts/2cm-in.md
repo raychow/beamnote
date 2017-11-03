@@ -13,7 +13,7 @@ date: 2010-03-19 23:40:26
 
 原先打算在 000WebHost 上申请主机成功之后就开始服务, 可是申请了很多次都宣告失败. 最后才知道, 000WebHost 不仅封锁中国 IP, 也封锁有太多申请的国外 IP, 我之前一直用 SSH 连接所以不成功, 后来换了很多个代理服务器才终于成功, 但主机是被墙的, 只好于今天再申请了一个, 终成正果, 期间换了七八个邮箱.
 
-[![2cm.in](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2cm-in.jpg)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/2cm-in.jpg)<!-- more -->
+[![2cm.in](//img.beamnote.com/2010/2cm-in.jpg)](//img.beamnote.com/2010/2cm-in.jpg)<!-- more -->
 
 接着在 GoDaddy 上注册了一个 in 域名, 域名也选了很长时间, 一直拿不定主意, 最后觉得 2cm.in 还不错, 有寓意也好记.
 

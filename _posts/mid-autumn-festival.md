@@ -11,7 +11,7 @@ date: 2010-09-21 19:50:07
 
 可能我已经很久没有写形散意更散的文章了, 因为我从来都不认为拿这些文章来凑数是一种认真的行为, 通过了××的认证、流量达到多少、赚了几钱、评论超过多少, 通通这些我都不喜欢写, 我认为这除了浪费 RSS 阅读时间之外, 没有任何意义. 然而今天这篇, 我觉得太有意义了, 简直是非写不可, 一方面, 明天就是八月十五中秋节了, 另一方面, [洛奇亚](http://www.rockia.net/)送给我一份大礼让我很荣幸.
 
-[![中秋祭](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/mid-autumn-festival.png)](//beamnote-img.oss-cn-shanghai.aliyuncs.com/2010/mid-autumn-festival.png)<!-- more -->
+[![中秋祭](//img.beamnote.com/2010/mid-autumn-festival.png)](//img.beamnote.com/2010/mid-autumn-festival.png)<!-- more -->
 
 因为大学离家很远, 这几年中秋都没有回家. 每次到了中秋, 宿舍中中山本地的那位肯定是要回家的, 还有东莞的那位也是, 暂居深圳的四川童鞋不一定回, 所以只剩下两个人.
 
